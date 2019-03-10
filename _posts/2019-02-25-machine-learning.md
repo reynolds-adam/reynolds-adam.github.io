@@ -13,7 +13,7 @@ defaults:
       share: true
       related: true
 tags: ["python", "machine learning"]
-featured_image: assets/images/letters.jpg
+featured_image: assets/images/wood-panel.jpg
 title: "Linear Regression"
 ---
 
