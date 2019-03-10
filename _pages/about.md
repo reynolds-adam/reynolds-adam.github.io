@@ -2,7 +2,7 @@
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "https://reynolds-adam.github.io/about/"
       type: pages
     values:
       layout: single
