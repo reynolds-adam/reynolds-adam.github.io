@@ -1,4 +1,4 @@
-# reynolds-adam.hithub.io
+# Adam's Portfolio
 Personal portfolio and blog
 
 ## Welcome to Adam's Portfolio
