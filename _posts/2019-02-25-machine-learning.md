@@ -1,5 +1,5 @@
 ---
-description: "Linear Regression"
+description: "Basic implementation of linear regression."
 defaults:
   # _posts
   - scope:
@@ -13,6 +13,7 @@ defaults:
       share: true
       related: true
 tags: ["python", "machine learning"]
+featured_image: "assets/images/letters.jpg"
 title: "Linear Regression"
 ---
 
