@@ -1,3 +1,4 @@
+---
 defaults:
   # _pages
   - scope:
@@ -6,7 +7,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+---
+	  
 # Adam Reynolds
 ------
 I have a variety of interests. I am a big fan of sports, watching and playing. I also love snowboarding, hiking, and camping. 

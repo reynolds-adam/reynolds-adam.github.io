@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Adam Reynolds"
   avatar           : "/assets/images/headshot1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my portfolio"
+  bio              : "Data Scientist"
   location         : "SLC, UT"
   email            : "adamreynolds89@gmail.com"
   links:
@@ -156,6 +156,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
