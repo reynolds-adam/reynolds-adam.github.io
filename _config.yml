@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adam Reynolds - Portfolio"
+title                    : "Adam Reynolds"
 title_separator          : "-"
 name                     : "Adam Reynolds"
 description              : "An amazing website."
