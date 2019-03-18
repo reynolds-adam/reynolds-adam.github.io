@@ -12,17 +12,15 @@ type: pages
 
 
 ### Boston University
-*MS, Computer Information Systems*
-
-*Emphasis: Data Analytics*
+MS, Computer Information Systems
+Emphasis: Data Analytics
 
 
 ### Southern Utah University
-*BSc, Mathematics*
+BSc, Mathematics
 
-*Emphasis: Actuarial Science*
-
-*Minor: Finance*
+Emphasis: Actuarial Science
+Minor: Finance
 
    
 ------
