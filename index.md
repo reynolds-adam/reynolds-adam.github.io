@@ -13,6 +13,7 @@ header:
 excerpt: "Welcome to my portfolio. Check out some of the projects I've been working on recently, and feel free to contact me if you have any questions."
 intro: 
   - excerpt: '“If you just use the scientific method as a way to approach data-intensive projects, I think you’re more apt to be successful with your outcome.” *-* *Bob Hayes*'
+  ## Recent Projects
 feature_row:
   - image_path: assets/images/computer.jpg
     alt: "placeholder image 1"
