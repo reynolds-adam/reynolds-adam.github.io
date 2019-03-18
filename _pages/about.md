@@ -1,14 +1,9 @@
 ---
 permalink: /about/
 title: "About"
-defaults:
-  # _pages
-  - scope:
-      path: "https://reynolds-adam.github.io/about/"
-      type: pages
-    values: ""
-      layout: home
-      author_profile: true
+layout: single
+author_profile: false
+type: pages
 ---
 	  
 # About me
