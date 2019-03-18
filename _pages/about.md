@@ -4,6 +4,7 @@ title: "About"
 layout: single
 author_profile: true
 type: pages
+
 ---
 	  
 # About me
