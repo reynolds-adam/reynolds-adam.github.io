@@ -4,7 +4,7 @@ defaults:
   - scope:
       path: "https://reynolds-adam.github.io/about/"
       type: pages
-    values:
+    values: ""
       layout: home
       author_profile: true
 ---
