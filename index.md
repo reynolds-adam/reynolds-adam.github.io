@@ -20,6 +20,9 @@ feature_row1:
     alt: "placeholder image 1"
     title: "Text Analysis"
     excerpt: "In this analysis I analyze *text* data."
+	url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: assets/images/wood-panel.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -33,6 +36,9 @@ feature_row3:
   - image_path: assets/images/boston-full.jpg
     title: "Using Weka to predict crime in South Dakota"
     excerpt: "Is **South Dakota** a real place? No one really knows for sure."
+	url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
