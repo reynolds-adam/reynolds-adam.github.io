@@ -207,8 +207,14 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+#collections:
+#  projects:
+#    output: true
+#    permalink: /:collection/:path/
 
-# Sass/SCSS
+  
+  # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
