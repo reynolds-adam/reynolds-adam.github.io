@@ -20,9 +20,6 @@ feature_row1:
     alt: "placeholder image 1"
     title: "Text Analysis"
     excerpt: "In this analysis I analyze *text* data."
-	url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row2:
   - image_path: assets/images/wood-panel.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
