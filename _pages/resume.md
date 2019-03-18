@@ -8,25 +8,24 @@ type: pages
 ---
 
 ------  
-# Education
+## Education
 
 
 ### Boston University
-MS, Computer Information Systems
+MS, Computer Information Systems  
 Emphasis: Data Analytics
 
 
 ### Southern Utah University
-BSc, Mathematics
-
-Emphasis: Actuarial Science
+BSc, Mathematics  
+Emphasis: Actuarial Science  
 Minor: Finance
 
    
 ------
 
 
-# Experience
+## Experience
 
 ### Western Governors University
 **Analyst, Institutional Research** *(2017-Present)*
