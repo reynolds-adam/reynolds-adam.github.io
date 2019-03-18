@@ -6,22 +6,25 @@ author_profile: true
 type: pages
       
 ---
-	  
+
+------  
 # Education
 
 
 ### Boston University
 *MS, Computer Information Systems*
+
 *Emphasis: Data Analytics*
 
 
 ### Southern Utah University
 *BSc, Mathematics*
+
 *Emphasis: Actuarial Science*
+
 *Minor: Finance*
 
-    
- 
+   
 ------
 
 
