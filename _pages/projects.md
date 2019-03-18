@@ -4,7 +4,7 @@ title: "Projects"
 layout: collection
 author_profile: false
 type: pages
-collection: projects
+collection: posts
       
 ---
 
