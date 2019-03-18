@@ -3,7 +3,7 @@ description: "Basic implementation of linear regression."
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "https://reynolds-adam.github.io/projects/linear_reg"
       type: posts
     values:
       layout: single

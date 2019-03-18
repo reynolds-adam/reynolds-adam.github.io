@@ -4,6 +4,7 @@ description: "Text Analysis"
 featured_image: "/images/letters.jpg"
 tags: ["python", "text-mining"]
 title: "Text Analysis"
+type: posts
 ---
 
 This is a sample file for a data science project related to text analysis in python using scikitlearn.
