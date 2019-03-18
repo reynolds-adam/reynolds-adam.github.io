@@ -1,12 +1,10 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: "https://reynolds-adam.github.io/resume/"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+permalink: /resume/
+title: "Resume"
+layout: single
+author_profile: true
+type: pages
+      
 ---
 	  
 # Education
