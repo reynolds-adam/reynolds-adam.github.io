@@ -1,4 +1,6 @@
 ---
+permalink: /about/
+title: "About"
 defaults:
   # _pages
   - scope:
