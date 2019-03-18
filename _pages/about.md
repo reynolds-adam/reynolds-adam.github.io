@@ -1,13 +1,12 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 layout: single
 author_profile: true
 type: pages
 
 ---
-	  
-# About me
+
 ------
 #### I have a variety of interests. 
 * Sports
