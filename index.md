@@ -13,7 +13,8 @@ header:
 excerpt: "Welcome to my portfolio. Check out some of the projects I've been working on recently, and feel free to contact me if you have any questions."
 intro: 
   - excerpt: '“If you just use the scientific method as a way to approach data-intensive projects, I think you’re more apt to be successful with your outcome.” *-* *Bob Hayes*'
-  ## Recent Projects
+recent:
+  - title: "Recent Projects"
 feature_row:
   - image_path: assets/images/computer.jpg
     alt: "placeholder image 1"
@@ -57,7 +58,7 @@ feature_row4:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
+{% include feature_row id="recent" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
