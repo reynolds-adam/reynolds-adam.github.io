@@ -5,7 +5,7 @@ defaults:
       path: "https://reynolds-adam.github.io/about/"
       type: pages
     values:
-      layout: single
+      layout: home
       author_profile: true
 ---
 	  
