@@ -20,15 +20,15 @@ feature_row1:
     alt: "placeholder image 1"
     title: "Text Analysis"
     excerpt: "In this analysis I analyze *text* data."
+	url: "https://reynolds-adam.github.io/about/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: assets/images/wood-panel.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Logistic Regression"
     excerpt: "This is the place where you click the link and read more."
-    url: "https://reynolds-adam.github.io/about/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row3:
   - image_path: assets/images/boston-full.jpg
     title: "Using Weka to predict crime in South Dakota"
