@@ -1,4 +1,12 @@
 ---
+permalink: /projects/
+title: "Projects"
+layout: single
+author_profile: false
+type: pages
+      
+---
+
 defaults:
   # _pages
   - scope:
@@ -7,4 +15,3 @@ defaults:
     values:
       layout: single
       author_profile: true
----
