@@ -32,11 +32,11 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/color_graph.png
+  - image_path: /assets/images/titanic.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    title: "How to Survive the Titanic"
+    excerpt: 'An analysis on how to survive the one of the deadliest shipwrecks in history'
+    url: "https://reynolds-adam.github.io/titanic/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
