@@ -52,15 +52,15 @@ feature_row3:
   - image_path: /assets/images/bell_curve.png
     alt: "placeholder image 2"
     title: "Is the Gaussian Distribution Really Normal?"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: 'The sample text is nice because most people will not even read it anyway.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/wordcloud.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    title: "Analysis of Twitter Text Data"
+    excerpt: 'Are Canadians really as nice as they seem? How to they compare to Australians?'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
