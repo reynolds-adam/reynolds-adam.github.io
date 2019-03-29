@@ -3,7 +3,7 @@ date: 2019-03-17T11:25:05-04:00
 description: "Derrick Rose"
 featured_image: "/images/letters.jpg"
 tags: ["python", "random forest"]
-title: "Titanic Survival"
+title: "Derrick Rose"
 type: posts
 classes: wide
 ---
