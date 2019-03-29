@@ -220,7 +220,7 @@ fig.savefig('Rose.png',bbox_inches='tight',facecolor=fig.get_facecolor(), edgeco
 ```
 
 
-![png](output_16_0.png)
+![png]('/images/output_16_0.png')
 
 
 Work done by Adam Reynolds, Tim Long and Eyal Shafran
