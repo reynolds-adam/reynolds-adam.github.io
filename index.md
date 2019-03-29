@@ -14,7 +14,8 @@ excerpt: "Welcome to my portfolio. Check out some of the projects I've been work
 intro: 
   - excerpt: '“If you just use the scientific method as a way to approach data-intensive projects, I think you’re more apt to be successful with your outcome.” *-* *Bob Hayes*'
 recent:
-  - title: "Recent Projects"
+  - title: "Recent Projects"  
+  
 feature_row:
   - image_path: assets/images/computer.jpg
     alt: "placeholder image 1"
@@ -31,6 +32,14 @@ feature_row:
   - image_path: /assets/images/computer.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row1:
+  - image_path: /assets/images/output_16_0.png
+    alt: "placeholder image 2"
+    title: "Derrick Rose Joins the 50 Point Club"
+    excerpt: "Even in his MVP season, D-rose never scored 50 points in a season. 5 years and several injuries later, he finally joined the club."
+    url: "https://reynolds-adam.github.io/Derrick-Rose-50-Points/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/titanic.png
     alt: "placeholder image 2"
@@ -42,7 +51,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/bell_curve.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+    title: "Is the Gaussian Distribution Really Normal?"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "#test-link"
     btn_label: "Read More"
@@ -60,6 +69,8 @@ feature_row4:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="recent" type="center" %}
+
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
