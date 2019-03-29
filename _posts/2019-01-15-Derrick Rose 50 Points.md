@@ -224,6 +224,6 @@ fig.savefig('Rose.png',bbox_inches='tight',facecolor=fig.get_facecolor(), edgeco
 </figure>
 
 
-<iframe src="https://public.tableau.com/views/MoreyBall/MoreyStats?:embed=y&:display_count=yes"></iframe>
+
 
 Work done by Adam Reynolds, Tim Long and Eyal Shafran
