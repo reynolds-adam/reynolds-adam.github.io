@@ -219,8 +219,11 @@ frame.set_edgecolor((0.97,0.97,0.97))
 fig.savefig('Rose.png',bbox_inches='tight',facecolor=fig.get_facecolor(), edgecolor='none')
 ```
 
+<figure>
+	<a href="/images/output_16_0.png"><img src="/images/output_16_0.png"></a>
+	<figcaption><a href="'/images/output_16_0.png'" title="Derrick Rose's 50 point night">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+</figure>
 
-![png]('/images/output_16_0.png')
 
 
 Work done by Adam Reynolds, Tim Long and Eyal Shafran
