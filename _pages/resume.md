@@ -1,6 +1,6 @@
 ---
 permalink: /resume/
-title: "Resume"
+title: "My Resume"
 layout: single
 author_profile: true
 type: pages
