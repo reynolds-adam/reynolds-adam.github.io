@@ -6,8 +6,12 @@ main:
   - title: "Projects"
     url: /projects/
     description: "Some things I've worked on"
+  - title: "Notes"
+    url: /notes/
+    description: "Data Science Notes"
   - title: "Resume"
     url: /resume/
     description: "Professional background"
+    
   # - title: "Sitemap"
   #   url: /sitemap/
