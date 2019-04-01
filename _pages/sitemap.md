@@ -36,5 +36,9 @@ A list of all the posts and pages found on the site.
   {% unless collection.output == false or collection.label == "posts" %}
   {% include archive-single.html %}
   {% endunless %}
+{% for post in collection.docs %}
+  {% unless collection.output == false or collection.label == "notes" %}
+  {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
 {% endfor %}
