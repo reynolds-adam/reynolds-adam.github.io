@@ -1,6 +1,6 @@
 ---
 permalink: /notes/
-title: "Python Notes"
+title: "Data Science Notes"
 layout: collection
 author_profile: false
 type: pages
