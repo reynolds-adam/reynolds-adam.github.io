@@ -18,4 +18,3 @@ s = "Python syntax highlighting"
 print(s)
 ```
 
-{% include eyal_tab.html %}
