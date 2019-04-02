@@ -15,7 +15,7 @@ This project will showcase my ability to use python to analyze text data for som
 import matplotlib.pyplot as plt
 
 s = "Python syntax highlighting"
-print s
+print(s)
 ```
 
 {% include eyal_tab.html %}
