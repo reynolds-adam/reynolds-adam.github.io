@@ -21,37 +21,32 @@ One time I went hang gliding.
 {% include video id="JDK-O95VAdQ" provider="youtube" %}
 
 
+<div><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MoreyBall&#47;MoreyStats&#47;1_rss.png' style='border: none' /></a></noscript><object width="300" height="150">
 
-<div class='tableauPlaceholder' id='viz1554246129796' style='position: relative'>
+ <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
 
-   <noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MoreyBall&#47;MoreyStats&#47;1_rss.png' style='border: none' /></a></noscript>
+ <param name="embed_code_version" value="3" />
 
-   <object class='tableauViz'  style='display:none;'>
+ <param name="site_root" value="" />
 
-      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+ <param name="name" value="MoreyBall/MoreyStats" />
 
-      <param name='embed_code_version' value='3' />
+ <param name="tabs" value="no" />
 
-      <param name='site_root' value='' />
+ <param name="toolbar" value="yes" />
 
-      <param name='name' value='MoreyBall&#47;MoreyStats' />
+ <param name="static_image" value="https://public.tableau.com/static/images/Mo/MoreyBall/MoreyStats/1.png" />
 
-      <param name='tabs' value='no' />
+ <param name="animate_transition" value="yes" />
 
-      <param name='toolbar' value='yes' />
+ <param name="display_static_image" value="yes" />
 
-      <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MoreyBall&#47;MoreyStats&#47;1.png' />
+ <param name="display_spinner" value="yes" />
 
-      <param name='animate_transition' value='yes' />
+ <param name="display_overlay" value="yes" />
 
-      <param name='display_static_image' value='yes' />
+ <param name="display_count" value="yes" />
 
-      <param name='display_spinner' value='yes' />
-
-      <param name='display_overlay' value='yes' />
-
-      <param name='display_count' value='yes' />
-
-   </object>
-
-</div>
+ </object></div>
+ 
+ <script type='text/javascript'>                    var divElement = document.getElementById('viz1554246129796');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='627px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
