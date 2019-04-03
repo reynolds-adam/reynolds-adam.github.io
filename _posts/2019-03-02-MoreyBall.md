@@ -12,3 +12,7 @@ An interactive visualization showing the relationship between the percentage of 
 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/MoreyBall/MoreyStats?:embed=y&:display_count=yes&:showVizHome=no" width = '1000' height = '700' scrolling='yes' ></iframe>    
+
+
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Bruce_Bowen/3-PointandFT?:embed=y&:display_count=yes&:showVizHome=no" width = '1000' height = '700' scrolling='yes' ></iframe> 
