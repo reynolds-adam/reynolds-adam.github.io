@@ -20,4 +20,4 @@ print(s)
 ```
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/MoreyBall/MoreyStats?:embed=y&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/MoreyBall/MoreyStats?:embed=y&:display_count=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' ></iframe>    
