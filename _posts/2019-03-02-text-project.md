@@ -19,7 +19,5 @@ s = "Python syntax highlighting"
 print(s)
 ```
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="400" height="225" src="https://public.tableau.com/views/MoreyBall/MoreyStats?:embed=y&:display_count=yes"></iframe>
-
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/MoreyBall/MoreyStats?:embed=y&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
