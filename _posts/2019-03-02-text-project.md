@@ -11,4 +11,4 @@ classes: wide
 Is the percentage of a player's Morrey Ball shots related to a their true shooting percentage?
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/MoreyBall/MoreyStats?:embed=y&:display_count=yes&:showVizHome=no" width = '900' height = '700' scrolling='yes' ></iframe>    
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/MoreyBall/MoreyStats?:embed=y&:display_count=yes&:showVizHome=no" width = '1100' height = '700' scrolling='yes' ></iframe>    
