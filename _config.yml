@@ -208,10 +208,10 @@ kramdown:
   enable_coderay: false
 
 # Collections
-#collections:
-#  projects:
-#    output: true
-#    permalink: /:collection/:path/
+collections:
+  notes:
+    output: true
+    permalink: /:collection/:path/
 
   
   # Sass/SCSS
