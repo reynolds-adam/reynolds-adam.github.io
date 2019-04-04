@@ -45,7 +45,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "How to Survive the Titanic"
     excerpt: 'An analysis on how to survive the one of the deadliest shipwrecks in history'
-    url: "https://reynolds-adam.github.io/titanic/"
+    url: "https://reynolds-adam.github.io/projects/titanic/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
