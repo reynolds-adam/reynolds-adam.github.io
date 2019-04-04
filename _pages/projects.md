@@ -11,7 +11,7 @@ collection: posts
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
-  {% unless collection.output == false or collection.label == "posts" %}
+  {% if collection.label == "posts" %}
     {% capture label %}{{ collection.label }}{% endcapture %}
     {% if label != written_label %}
       <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
