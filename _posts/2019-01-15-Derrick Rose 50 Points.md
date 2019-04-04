@@ -5,6 +5,7 @@ tags: ["nba", "python", "dataviz"]
 title: "Derrick Rose Joins the 50 Point Club"
 type: posts
 classes: wide
+collection: posts
 ---
 
 
