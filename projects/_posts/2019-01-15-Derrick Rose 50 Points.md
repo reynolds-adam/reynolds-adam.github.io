@@ -1,10 +1,10 @@
 ---
 date: 2019-03-28T11:25:05-04:00
-description: "Even in his MVP season, D-rose never scored 50 points in a season. 5 years and several injuries later, he finally joined the club."
-featured_image: "/images/letters.jpg"
+description: "Even in his MVP season, D-rose never scored 50 points in a season. 7 years and several injuries later, he finally joined the club."
 tags: ["nba", "python", "dataviz"]
 title: "Derrick Rose Joins the 50 Point Club"
 type: posts
+category: projects
 classes: wide
 ---
 
