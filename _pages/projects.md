@@ -7,19 +7,12 @@ type: pages
 collection: projects
 ---
 
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-  {% unless collection.output == false or collection.label == "posts" %}
-    {% capture label %}{{ collection.label }}{% endcapture %}
-    {% if label != written_label %}
-      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
-      {% capture written_label %}{{ label }}{% endcapture %}
-    {% endif %}
-  {% endunless %}
-  {% for post in collection.docs %}
-    {% unless collection.output == false or collection.label == "posts" %}
-      {% include archive-single.html %}
-    {% endunless %}
-  {% endfor %}
+{% for post in site.posts %}
+	<div class="post">
+		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+		<p class="meta">Date: {{ post.date }}</p>
+		<div class="entry">
+			{{ post.content | strip_html | truncatewords: 100 }}
+		</div>
+	</div>
 {% endfor %}
