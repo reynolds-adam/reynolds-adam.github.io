@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 title: "Projects"
-layout: posts
+layout: archive
 author_profile: false      
 type: pages
 collection: projects
