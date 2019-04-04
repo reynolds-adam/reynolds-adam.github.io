@@ -296,3 +296,12 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: true
