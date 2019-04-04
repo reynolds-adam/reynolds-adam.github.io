@@ -5,6 +5,7 @@ featured_image: "/images/letters.jpg"
 tags: ["notes", "python"]
 title: "First Python Note"
 type: notes
+collection: notes
 classes: wide
 ---
 
