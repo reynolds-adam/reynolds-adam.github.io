@@ -2,14 +2,9 @@
 permalink: /projects/
 title: "Projects"
 layout: collection
-author_profile: false
-<<<<<<< HEAD
-type: pages      
-=======
+author_profile: false      
 type: pages
 collection: projects
-      
->>>>>>> parent of 0ba4b0f... Update projects.md
 ---
 
 {% capture written_label %}'None'{% endcapture %}
