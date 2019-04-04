@@ -3,9 +3,7 @@ permalink: /projects/
 title: "Projects"
 layout: collection
 author_profile: false
-type: pages
-collection: posts
-      
+type: pages      
 ---
 
 {% capture written_label %}'None'{% endcapture %}
