@@ -4,7 +4,6 @@ description: "Even in his MVP season, D-rose never scored 50 points in a season.
 tags: ["nba", "python", "dataviz"]
 title: "Derrick Rose Joins the 50 Point Club"
 type: posts
-category: projects
 classes: wide
 ---
 
