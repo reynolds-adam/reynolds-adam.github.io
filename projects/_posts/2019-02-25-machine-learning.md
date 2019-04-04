@@ -1,20 +1,11 @@
 ---
+date: 2019-03-21T11:25:05-04:00
 description: "Basic implementation of linear regression."
-defaults:
-  # _posts
-  - scope:
-      path: "https://reynolds-adam.github.io/projects/linear_reg"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
 tags: ["python", "machine learning"]
-featured_image: assets/images/wood-panel.jpg
 title: "Linear Regression"
+type: posts
+category: projects
+classes: wide
 ---
 
 This is a sample file for a data science project related to linear regression in python using scikitlearn.
