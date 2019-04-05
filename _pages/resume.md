@@ -4,6 +4,7 @@ title: ""
 layout: single
 author_profile: true
 type: pages
+link: https://drive.google.com/file/d/1DaMsa8HCzwIglYUqbxiGWNQ4WKIB1k1s/view
       
 ---
 
@@ -42,7 +43,7 @@ Minor: Finance
 
 ### Tableau Desktop Specialist
 Issued February, 2019
-(view credential)[https://drive.google.com/file/d/1DaMsa8HCzwIglYUqbxiGWNQ4WKIB1k1s/view]  
+(view credential)[#]  
 
 ------
 ## Skills
