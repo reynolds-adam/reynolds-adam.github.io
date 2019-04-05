@@ -1,30 +1,14 @@
 ---
 permalink: /resume/
-title: "My Resume"
+title: ""
 layout: single
 author_profile: true
 type: pages
       
 ---
 
-------  
-## Education
 
-
-### Boston University
-MS, Computer Information Systems  
-Emphasis: Data Analytics
-
-
-### Southern Utah University
-BSc, Mathematics  
-Emphasis: Actuarial Science  
-Minor: Finance
-
-   
 ------
-
-
 ## Work Experience
 
 ### **Western Governors University**
@@ -38,4 +22,35 @@ Minor: Finance
 **Data Analyst** *(2015-2017)*
 
 * Created underwriting pricing model using machine learning methods
-* Analyzed and identified loss trends for property, workers compensation, and automobile insurance lines
+* Analyzed and identified loss trends for property, workers compensation, and automobile insurance lines  
+
+------  
+## Education
+
+### Boston University
+MS, Computer Information Systems  
+Emphasis: Data Analytics
+
+
+### Southern Utah University
+BSc, Mathematics  
+Emphasis: Actuarial Science  
+Minor: Finance  
+
+------
+## Certifications
+
+### Tableau Desktop Specialist
+Issued February, 2019
+(view credential)[https://drive.google.com/file/d/1DaMsa8HCzwIglYUqbxiGWNQ4WKIB1k1s/view]  
+
+------
+## Skills
+* Python
+* Tableau
+* Cognos
+* Machine Learning
+* Time Series Analysis
+
+
+
