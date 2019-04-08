@@ -1,8 +1,5 @@
 ---
-permalink: /resume2/
-author_profile: false
-
-      
+permalink: /resume2/    
 ---
 
 <html>
