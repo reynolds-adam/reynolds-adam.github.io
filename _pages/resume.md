@@ -42,7 +42,7 @@ Minor: Finance
 ## Certifications
 
 ### Tableau Desktop Specialist
-Issued February, 2019
+Issued February, 2019  
 (view credential)[https://drive.google.com/file/d/1DaMsa8HCzwIglYUqbxiGWNQ4WKIB1k1s/view]  
 
 ------
