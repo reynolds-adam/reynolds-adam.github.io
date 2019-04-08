@@ -43,7 +43,7 @@ Minor: Finance
 
 ### Tableau Desktop Specialist
 Issued February, 2019  
-(view)[https://drive.google.com/file/d/1DaMsa8HCzwIglYUqbxiGWNQ4WKIB1k1s/view]  
+(view)[/assets/images/TableauDesktopSpecialist_AdamReynolds.pdf]
 
 ------
 ## Skills
