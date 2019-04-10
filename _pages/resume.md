@@ -1,11 +1,14 @@
 ---
 permalink: /resume/
-title: ""
+title: "Resume"
 layout: single
 author_profile: true
-type: pages
-link: https://drive.google.com/file/d/1DaMsa8HCzwIglYUqbxiGWNQ4WKIB1k1s/view
-      
+type: splash
+header:
+  overlay_color: "#5e616c"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/boston-sky.png
+  
 ---
 
 

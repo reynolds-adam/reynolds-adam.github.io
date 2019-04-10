@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About Me"
 layout: splash
-author_profile: false
+author_profile: true
 type: pages
 
 header:
