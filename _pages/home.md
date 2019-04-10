@@ -4,7 +4,7 @@ permalink: /home/
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/computer.jpg
+  overlay_image: /assets/images/home/computer.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download my Resume"
       url: "/docs/TDS_AdamReynolds.pdf/"
