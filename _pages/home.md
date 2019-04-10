@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/home/boat_home.jpg
     alt: "about"
     title: "About Me"
-    excerpt: "Learn more than you care to know about me"
+    excerpt: "Learn more than you probably care to know"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -26,9 +26,9 @@ feature_row:
     alt: "projects"
     title: "Projects"
     excerpt: "Some projects I have been working on"
-    url: "/projects/"
+    url: "/recent-projects/"
     btn_class: "btn--primary"
-    btn_label: "All Projects"
+    btn_label: "Recent Projects"
   - image_path: /assets/images/home/notes.jpg
     alt: "notes"
     title: "Notes"
