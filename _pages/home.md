@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/computer.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download my Resume"
-      url: "/docs/TDS_AdamReynolds/"
+      url: "/docs/TDS_AdamReynolds.pdf/"
 excerpt: >
   Welcome to my portfolio. Check out some of the projects I’ve been working on recently, and feel free to contact me if you have any questions.<br />
 
@@ -37,5 +37,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "All Code"      
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
