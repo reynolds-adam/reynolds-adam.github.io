@@ -13,7 +13,7 @@ header:
 
 
 ------
-## Work Experience
+## **Work Experience**
 
 ### **Western Governors University**
 **Analyst, Institutional Research** *(2017-Present)*
@@ -46,7 +46,7 @@ Minor: Finance
 
 ### Tableau Desktop Specialist
 Issued February, 2019  
-(view)[/docs/TDS_AdamReynolds.pdf]
+(view)["/docs/TDS_AdamReynolds.pdf"]
 
 ------
 ## Skills
