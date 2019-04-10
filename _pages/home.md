@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Download my Resume"
       url: "/docs/TDS_AdamReynolds.pdf/"
 excerpt: >
-  Welcome to my portfolio. Check out some of the projects I’ve been working on recently, and feel free to contact me if you have any questions.<br />
+  Welcome to my portfolio site. Check out some of the projects I’ve been working on recently, and feel free to contact me if you have any questions.<br />
 
 intro:  
   - excerpt: '“If you just use the scientific method as a way to approach data-intensive projects, I think you’re more apt to be successful with your outcome.” *-* *Bob Hayes*'
