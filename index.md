@@ -10,7 +10,7 @@ header:
     - label: "All Projects"
       url: "https://reynolds-adam.github.io/projects/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Welcome to my portfolio. Check out some of the projects I've been working on recently, and feel free to contact me if you have any questions."
+excerpt: "Welcome to my portfolio. Check out some of the projects I've been working on recently, and contact me if you have any questions."
 intro: 
   - excerpt: '“If you just use the scientific method as a way to approach data-intensive projects, I think you’re more apt to be successful with your outcome.” *-* *Bob Hayes*'
 recent:
