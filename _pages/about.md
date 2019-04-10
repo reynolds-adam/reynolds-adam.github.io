@@ -1,9 +1,9 @@
 ---
 permalink: /about/
 title: "About Me"
-layout: splash
+layout: single
 author_profile: true
-type: pages
+type: splash
 
 header:
   overlay_color: "#000"
