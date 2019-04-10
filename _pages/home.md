@@ -15,27 +15,27 @@ intro:
   - excerpt: '“If you just use the scientific method as a way to approach data-intensive projects, I think you’re more apt to be successful with your outcome.” *-* *Bob Hayes*'
 
 feature_row:
-  - image_path: /assets/images/about/boat_home.jpg
-    alt: "customizable"
+  - image_path: /assets/images/home/boat_home.jpg
+    alt: "about"
     title: "About Me"
-    excerpt: ""
+    excerpt: "Learn more than you care to know about me"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/project.jpg
-    alt: "fully responsive"
+  - image_path: /assets/images/home/project.jpg
+    alt: "projects"
     title: "Projects"
-    excerpt: ""
+    excerpt: "Some projects I have been working on"
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "All Projects"
-  - image_path: /assets/images/code.jpg
-    alt: "100% free"
-    title: "Code"
-    excerpt: ""
+  - image_path: /assets/images/home/notes.jpg
+    alt: "notes"
+    title: "Notes"
+    excerpt: "My Data Science Notebook"
     url: "/notes/"
     btn_class: "btn--primary"
-    btn_label: "All Code"      
+    btn_label: "All Notes"      
 ---
 
 {% include feature_row id="intro" type="center" %}
