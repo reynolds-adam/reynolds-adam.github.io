@@ -12,7 +12,7 @@ recent:
   - title: "Recent Projects"  
   
 feature_row1:
-  - image_path: /assets/images/color_graph_small.png
+  - image_path: /assets/images/color_graph_small.jpg
     alt: "placeholder image 2"
     title: "Derrick Rose Joins the 50 Point Club"
     excerpt: "Even in his MVP season, D-rose never scored 50 points in a season. 5 years and several injuries later, he finally joined the club."
