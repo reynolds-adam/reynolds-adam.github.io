@@ -1,12 +1,6 @@
 ---
-
-title: "Recent Projects"
-author_profile: true      
----
-
----
 title: "Data Science Portfolio"
-permalink: /recent_projects/
+permalink: /recent-projects/
 layout: splash
 header:
   overlay_color: "#000"
