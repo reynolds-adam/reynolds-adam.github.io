@@ -1,5 +1,5 @@
 ---
-title: "Data Science Portfolio"
+title: "Recent Projects"
 permalink: /recent-projects/
 layout: splash
 header:
@@ -7,9 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/desk.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-
-recent:
-  - title: "Recent Projects"  
+ 
   
 feature_row1:
   - image_path: /assets/images/color_graph_small.jpg
@@ -45,7 +43,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="recent" type="center" %}
+{% include feature_row id="" type="" %}
 
 {% include feature_row id="feature_row1" type="left" %}
 
