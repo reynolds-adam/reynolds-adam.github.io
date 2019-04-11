@@ -4,13 +4,13 @@ permalink: /recent-projects/
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/desk.jpg
+  overlay_filter: "0.7"
+  overlay_image: /assets/images/basic/desk.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
  
   
 feature_row1:
-  - image_path: /assets/images/color_graph_small.jpg
+  - image_path: /assets/images/home/project.jpg
     alt: "placeholder image 2"
     title: "Derrick Rose Joins the 50 Point Club"
     excerpt: "Even in his MVP season, D-rose never scored 50 points in a season. 5 years and several injuries later, he finally joined the club."
@@ -26,7 +26,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/bell_curve.png
+  - image_path: /assets/images/basic/bell_curve.png
     alt: "placeholder image 2"
     title: "Is the Gaussian Distribution Really Normal?"
     excerpt: 'The sample text is nice because most people will not even read it anyway.'
@@ -34,7 +34,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/wordcloud.png
+  - image_path: /assets/images/basic/wordcloud.png
     alt: "placeholder image 2"
     title: "Analysis of Twitter Text Data"
     excerpt: 'Are Canadians really as nice as they seem? How to they compare to Australians?'

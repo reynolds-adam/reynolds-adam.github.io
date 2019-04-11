@@ -8,7 +8,7 @@ type: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/computer.jpg
+  overlay_image: /assets/images/home/computer.jpg
 ---
 
 ------
