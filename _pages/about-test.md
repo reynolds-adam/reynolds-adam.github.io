@@ -12,18 +12,18 @@ header:
 
 gallery1:
   - image_path: /assets/images/basic/color_graph.png
-    alt: "woodworking"
+    alt: "woodworking1"
   - image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
-    alt: "woodworking"
+    alt: "woodworking2"
   - image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
-    alt: "woodworking"
+    alt: "woodworking3"
 gallery2:
   - image_path: /assets/images/about/spike2018.jpg
-	alt: "volleyball"
+	alt: "volleyball-1"
   - image_path: /assets/images/about/champs.jpg
-	alt: "volleyball"
+	alt: "volleyball-2"
   - image_path: /assets/images/about/volleyball-tip.jpg
-	alt: "volleyball"
+	alt: "volleyball-3"
 ---
 
 ------
