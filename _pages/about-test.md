@@ -12,7 +12,7 @@ header:
 ---
 
 ------
-# Hi, I'm Adam and I am an aspiring data scientist...
+# Hi, I'm Adam, an aspiring data scientist...
 I'm also a musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more.
 
 ------
@@ -48,7 +48,7 @@ I love hiking in Utah.
 ------
 ## Traveling
 <figure class="third">
-	<img src="/assets/images/about/london.JPG">
+	<img src="/assets/images/about/london.jog">
 	<img src="/assets/images/about/greece.jpg">
 	<img src="/assets/images/about/greece2.jpg">
 </figure>  
