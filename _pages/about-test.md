@@ -48,7 +48,7 @@ I love hiking in Utah.
 ------
 ## Traveling
 <figure class="third">
-	<img src="/assets/images/about/london.jog">
+	<img src="/assets/images/about/london.jpg">
 	<img src="/assets/images/about/greece.jpg">
 	<img src="/assets/images/about/greece2.jpg">
 </figure>  
