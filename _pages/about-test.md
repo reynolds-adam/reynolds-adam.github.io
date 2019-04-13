@@ -20,7 +20,7 @@ I'm also a musician, motorcycle rider, woodworker, traveler, hiker, chef, volley
 Ever since I was 8 years old, I've always loved building things. Recently, I've gotten into woodworking.
 <figure class="third">
 	<img src="/assets/images/about/spike2018.jpg">
-	<img src="/assets/images/about/champs.jpg">
+	<img src="/assets/images/about/champs.JPG">
 	<img src="/assets/images/about/volleyball-tip.jpg">
 	<figcaption>A few of my recent woodworking projects</figcaption>
 </figure>  
@@ -30,7 +30,7 @@ Ever since I was 8 years old, I've always loved building things. Recently, I've 
 On Tuesdays, I play on a local rec league volleyball team. 
 <figure class="third">
 	<img src="/assets/images/about/spike2018.jpg">
-	<img src="/assets/images/about/champs.jpg">
+	<img src="/assets/images/about/champs.JPG">
 	<img src="/assets/images/about/volleyball-tip.jpg">
 	<figcaption>Recreation Volleyball - 3rd Team All-Neighborhood</figcaption>
 </figure>  
@@ -40,8 +40,8 @@ On Tuesdays, I play on a local rec league volleyball team.
 I love hiking in Utah. 
 <figure class="third">
 	<img src="/assets/images/about/hiking.jpeg">
-	<img src="/assets/images/about/hiking2.jpg">
-	<img src="/assets/images/about/hiking3.jpg">
+	<img src="/assets/images/about/hiking2.JPG">
+	<img src="/assets/images/about/hiking3.JPG">
 	<figcaption>From the high mountains of the Uintahs to the desert vistas of Moab</figcaption>
 </figure>  
 
