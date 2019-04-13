@@ -13,7 +13,9 @@ header:
 
 ------
 # Hi, I'm Adam, an aspiring data scientist...
-### I'm also a musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more.
+### ...musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more.
+
+I've always had a variety of interests. To put it simply, I like creating things, solving problems, and having experiences.  
 
 ------
 ## Woodworking
@@ -27,7 +29,7 @@ Ever since I was 8 years old, I've always loved building things. Recently, I've 
 
 ------
 ## Volleyball
-On Tuesdays, I play on a local rec league volleyball team. 
+On Tuesdays, I play on a local rec league volleyball team. Our team went from last to first in the span of 3 seasons. **
 <figure class="third">
 	<img src="/assets/images/about/spike2018.jpg">
 	<img src="/assets/images/about/champs.JPG">
@@ -37,7 +39,7 @@ On Tuesdays, I play on a local rec league volleyball team.
 
 ------
 ## Hiking
-I love taking advantage of the great hiking in Utah. The elevation in Utah ranges from 2,200 to 13,500 feet, so there is a wide variety of terrain to explore.
+I love taking advantage of the great hiking in Utah. The elevation in Utah ranges from 2,200 to 13,500 feet, so there is a wide variety of terrain to explore. There are also 5 national parks, 3rd most in any state.
 <figure class="third">
 	<img src="/assets/images/about/hiking.jpg">
 	<img src="/assets/images/about/hiking2.JPG">
@@ -62,7 +64,7 @@ I love taking advantage of the great hiking in Utah. The elevation in Utah range
 
 
 ## One of my coolest experiences...
-was when I went hang gliding in Arizona at sunset. Instead of jumping off a mountain, a small airplane towed the hang glider 2,000 feet in the air. The hang glider then released from the airplane and *glided* down from there.
+...was when I went hang gliding in Arizona at sunset. Instead of jumping off a mountain, a small airplane towed the hang glider 2,000 feet in the air. The hang glider then released from the airplane and *glided* down from there.
 {% include video id="JDK-O95VAdQ" provider="youtube" %}
 ------
 
