@@ -21,7 +21,7 @@ Ever since I was 8 years old, I've always loved building things. Recently, I've 
 <figure class="third">
 	<img src="/assets/images/about/bench.JPG">
 	<img src="/assets/images/about/table.JPG">
-	<img src="/assets/images/about/volleyball-tip.jpg">
+	<img src="/assets/images/about/bookshelf.jpg">
 	<figcaption>A few of my recent woodworking projects</figcaption>
 </figure>  
 
@@ -54,7 +54,7 @@ I love hiking in Utah.
 </figure>  
 <figure class="third">
 	<img src="/assets/images/about/boston-harbor.jpg">
-	<img src="/assets/images/about/greece.jpg">
+	<img src="/assets/images/about/boston-sunset.JPG">
 	<img src="/assets/images/about/nola.JPG">
 	<figcaption>Some of my trips from 2018. London, Greece, Boston, and New Orleans.</figcaption>
 </figure>
