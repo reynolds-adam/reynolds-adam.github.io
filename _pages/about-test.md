@@ -48,17 +48,21 @@ I love hiking in Utah.
 ------
 ## Traveling
 <figure class="third">
-	<img src="/assets/images/about/spike2018.jpg">
-	<img src="/assets/images/about/champs.jpg">
-	<img src="/assets/images/about/volleyball-tip.jpg">
-	<figcaption>Recreation Volleyball. 3rd Team All-Neighborhood</figcaption>
+	<img src="/assets/images/about/london.JPG">
+	<img src="/assets/images/about/greece.jpg">
+	<img src="/assets/images/about/greece2.jpg">
 </figure>  
-
+<figure class="third">
+	<img src="/assets/images/about/boston-harbor.jpg">
+	<img src="/assets/images/about/greece.jpg">
+	<img src="/assets/images/about/nola.JPG">
+	<figcaption>Some of my trips from 2018. London, Greece, Boston, and New Orleans.</figcaption>
+</figure>
 ------
 
 
 ## One of my coolest experiences...
-Was when I went hang gliding in Arizona at sunset. Instead of jumping off a ridge, a small airplane towed the hang glider 2,000 feet in the air. The hang glider then released from the airplane and *glided* down from there.
+was when I went hang gliding in Arizona at sunset. Instead of jumping off a mountain, a small airplane towed the hang glider 2,000 feet in the air. The hang glider then released from the airplane and *glided* down from there.
 {% include video id="JDK-O95VAdQ" provider="youtube" %}
 
 [Google](http://google.com)
