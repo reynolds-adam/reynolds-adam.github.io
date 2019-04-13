@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/home/computer.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download my Resume"
-      url: "/docs/TDS_AdamReynolds.pdf/"
+      url: "/assets/docs/TDS_AdamReynolds.pdf/"
 excerpt: >
   Welcome to my portfolio site. Check out some of the projects I’ve been working on recently, and feel free to contact me if you have any questions.<br />
 
