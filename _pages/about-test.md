@@ -37,12 +37,12 @@ On Tuesdays, I play on a local rec league volleyball team.
 
 ------
 ## Hiking
-I love hiking in Utah. 
+I love taking advantage of the great hiking in Utah. The elevation in Utah ranges from 2,200 to 13,500 feet, so there is a wide variety of terrain to explore.
 <figure class="third">
 	<img src="/assets/images/about/hiking.jpeg">
 	<img src="/assets/images/about/hiking2.JPG">
 	<img src="/assets/images/about/hiking3.JPG">
-	<figcaption>From the high mountains of the Uintahs to the desert vistas of Moab</figcaption>
+	<figcaption>Amethyst Lake, Gunsight Pass, and Dead Horse Point </figcaption>
 </figure>  
 
 ------
