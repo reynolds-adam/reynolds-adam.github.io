@@ -2,7 +2,7 @@
 permalink: /about-test/
 title: "About Me"
 layout: single
-author_profile: true
+author_profile: true 
 type: splash
 
 header:
@@ -13,20 +13,49 @@ header:
 
 ------
 # Hi, I'm Adam and I am an aspiring data scientist...
-Additionally, I am a woodworker, musician, traveler, hiker, chef, volleyballer, learner, and more.
+I'm also a musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more.
 
 ------
 ## Woodworking
- 
-------
-## Volleyball
+Ever since I was 8 years old, I've always loved building things. Recently, I've gotten into woodworking.
 <figure class="third">
 	<img src="/assets/images/about/spike2018.jpg">
-	<img src="/assets/images/about/spike2018.jpg">
-	<img src="/assets/images/about/spike2018.jpg">
-	<figcaption>Recreation Volleyball. 3rd Team All-Neighborhood</figcaption>
-</figure>
+	<img src="/assets/images/about/champs.jpg">
+	<img src="/assets/images/about/volleyball-tip.jpg">
+	<figcaption>A few of my recent woodworking projects</figcaption>
+</figure>  
+
 ------
+## Volleyball
+On Tuesdays, I play on a local rec league volleyball team. 
+<figure class="third">
+	<img src="/assets/images/about/spike2018.jpg">
+	<img src="/assets/images/about/champs.jpg">
+	<img src="/assets/images/about/volleyball-tip.jpg">
+	<figcaption>Recreation Volleyball - 3rd Team All-Neighborhood</figcaption>
+</figure>  
+
+------
+## Hiking
+I love hiking in Utah. 
+<figure class="third">
+	<img src="/assets/images/about/hiking.jpeg">
+	<img src="/assets/images/about/hiking2.jpg">
+	<img src="/assets/images/about/hiking3.jpg">
+	<figcaption>From the high mountains of the Uintahs to the desert vistas of Moab</figcaption>
+</figure>  
+
+------
+## Traveling
+<figure class="third">
+	<img src="/assets/images/about/spike2018.jpg">
+	<img src="/assets/images/about/champs.jpg">
+	<img src="/assets/images/about/volleyball-tip.jpg">
+	<figcaption>Recreation Volleyball. 3rd Team All-Neighborhood</figcaption>
+</figure>  
+
+------
+
 
 ## One of my coolest experiences...
 Was when I went hang gliding in Arizona at sunset. Instead of jumping off a ridge, a small airplane towed the hang glider 2,000 feet in the air. The hang glider then released from the airplane and *glided* down from there.
