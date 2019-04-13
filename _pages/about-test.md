@@ -64,6 +64,7 @@ I love hiking in Utah.
 ## One of my coolest experiences...
 was when I went hang gliding in Arizona at sunset. Instead of jumping off a mountain, a small airplane towed the hang glider 2,000 feet in the air. The hang glider then released from the airplane and *glided* down from there.
 {% include video id="JDK-O95VAdQ" provider="youtube" %}
+------
 
-[Google](http://google.com)
+For information about my professional experience, check out my [resume](/resume/).
 
