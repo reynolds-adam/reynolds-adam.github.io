@@ -29,7 +29,7 @@ Ever since I was 8 years old, I've always loved building things. Recently, I've 
 
 ------
 ## Volleyball
-On Tuesdays, I play on a local rec league volleyball team. Our team went from last to first in the span of 3 seasons. **
+On Tuesdays, I play on a local rec league volleyball team. Our team went from last to first in the span of 3 seasons. *(I'm so proud)* 
 <figure class="third">
 	<img src="/assets/images/about/spike2018.jpg">
 	<img src="/assets/images/about/champs.JPG">
