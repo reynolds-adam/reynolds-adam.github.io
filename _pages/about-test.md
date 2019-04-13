@@ -13,7 +13,7 @@ header:
 
 ------
 # Hi, I'm Adam, an aspiring data scientist...
-I'm also a musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more.
+### I'm also a musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more.
 
 ------
 ## Woodworking
@@ -39,7 +39,7 @@ On Tuesdays, I play on a local rec league volleyball team.
 ## Hiking
 I love taking advantage of the great hiking in Utah. The elevation in Utah ranges from 2,200 to 13,500 feet, so there is a wide variety of terrain to explore.
 <figure class="third">
-	<img src="/assets/images/about/hiking.jpeg">
+	<img src="/assets/images/about/hiking.jpg">
 	<img src="/assets/images/about/hiking2.JPG">
 	<img src="/assets/images/about/hiking3.JPG">
 	<figcaption>Amethyst Lake, Gunsight Pass, and Dead Horse Point </figcaption>
