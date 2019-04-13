@@ -17,12 +17,14 @@ woodworking:
     alt: "Made for open text placement"
   - image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
     alt: "Fog in the trees"
-	
 volleyball:
   - image_path: /assets/images/about/spike2018.jpg
+	alt: ""
   - image_path: /assets/images/about/champs.jpg
+	alt: ""
   - image_path: /assets/images/about/volleyball-tip.jpg
-  
+	alt: ""
+
 
 ---
 
