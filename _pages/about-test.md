@@ -54,7 +54,7 @@ I love hiking in Utah.
 </figure>  
 <figure class="third">
 	<img src="/assets/images/about/boston-harbor.jpg">
-	<img src="/assets/images/about/boston-sunset.JPG">
+	<img src="/assets/images/about/boston-sunset.jpg">
 	<img src="/assets/images/about/nola.JPG">
 	<figcaption>Some of my trips from 2018. London, Greece, Boston, and New Orleans.</figcaption>
 </figure>
