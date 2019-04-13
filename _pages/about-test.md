@@ -24,8 +24,6 @@ gallery2:
 	alt: "volleyball"
   - image_path: /assets/images/about/volleyball-tip.jpg
 	alt: "volleyball"
-
-
 ---
 
 ------
