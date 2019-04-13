@@ -21,7 +21,7 @@ Ever since I was 8 years old, I've always loved building things. Recently, I've 
 <figure class="third">
 	<img src="/assets/images/about/bench.JPG">
 	<img src="/assets/images/about/table.JPG">
-	<img src="/assets/images/about/bookshelf.jpg">
+	<img src="/assets/images/about/bookshelf.JPG">
 	<figcaption>A few of my recent woodworking projects</figcaption>
 </figure>  
 
