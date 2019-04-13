@@ -19,8 +19,8 @@ I'm also a musician, motorcycle rider, woodworker, traveler, hiker, chef, volley
 ## Woodworking
 Ever since I was 8 years old, I've always loved building things. Recently, I've gotten into woodworking.
 <figure class="third">
-	<img src="/assets/images/about/spike2018.jpg">
-	<img src="/assets/images/about/champs.JPG">
+	<img src="/assets/images/about/bench.JPG">
+	<img src="/assets/images/about/table.JPG">
 	<img src="/assets/images/about/volleyball-tip.jpg">
 	<figcaption>A few of my recent woodworking projects</figcaption>
 </figure>  
