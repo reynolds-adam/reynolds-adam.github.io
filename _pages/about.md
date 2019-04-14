@@ -68,7 +68,7 @@ I love taking advantage of the great hiking in Utah. The elevation in Utah range
 ------
 
 ## Purpose of this Site
-I built this site as a way for me to showcase the projects I have worked on in school, and ones I've been doing since just for fun. I've really enjoyed building this, and I plan on adding tons more content in the future. Feel free to hit me up if you have any questions, comments, or suggestions.
+I built this site as a way for me to showcase the projects I have worked on in school, and others I've been doing since, just for fun. I've really enjoyed building this, and I plan on adding tons more content in the future. Feel free to hit me up if you have any questions, comments, or suggestions.
 
 For information about my professional experience, check out my [resume](/resume/) page.
 
