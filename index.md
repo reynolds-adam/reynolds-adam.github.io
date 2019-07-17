@@ -5,7 +5,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/home/computer.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> See my resume"
+    - label: "<i class='fas fa-file'></i> See my resume"
       url: "/resume/"
 excerpt: >
   Welcome to my portfolio site. Check out some of the projects I’ve been working on recently, and feel free to contact me if you have any questions.<br />
