@@ -51,10 +51,12 @@ February, 2019
 ## Skills
 * Python
 * Apache Spark
+* SQL
 * R
 * Tableau
 * IBM Cognos
-* Machine Learning
+* Regression Analysis
+* Decision Trees/ Random Forest
 * Time Series Analysis
 
 
