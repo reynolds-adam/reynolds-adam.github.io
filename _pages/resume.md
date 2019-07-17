@@ -31,12 +31,12 @@ header:
 ------  
 ## Education
 
-### Boston University
+### Boston University - 2019
 MS, Computer Information Systems  
 Emphasis: Data Analytics
 
 
-### Southern Utah University
+### Southern Utah University - 2015
 BSc, Mathematics  
 Emphasis: Actuarial Science  
 Minor: Finance  
@@ -50,8 +50,10 @@ Issued February, 2019
 ------
 ## Skills
 * Python
+* Apache Spark
+* R
 * Tableau
-* Cognos
+* IBM Cognos
 * Machine Learning
 * Time Series Analysis
 
