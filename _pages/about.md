@@ -13,7 +13,7 @@ header:
 
 ------
 # Hi, I'm Adam, an aspiring data scientist...
-### ...musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more.
+### musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more.
 
 I've always had a variety of interests. To put it simply, I like creating things, solving problems, and having experiences.  
 
@@ -63,7 +63,7 @@ I love taking advantage of the great hiking in Utah. The elevation in Utah range
 ------
 
 ## One of my coolest experiences...
-...was when I went hang gliding in Arizona at sunset. Instead of jumping off a mountain, a small airplane towed the hang glider 2,000 feet in the air. The hang glider then released from the airplane and *glided* down.
+was when I went hang gliding in Arizona at sunset. Instead of jumping off a mountain, a small airplane towed the hang glider 2,000 feet in the air. The hang glider then released from the airplane and *glided* down.
 {% include video id="JDK-O95VAdQ" provider="youtube" %}
 ------
 
