@@ -29,10 +29,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Recent Projects"
   - image_path: /assets/images/home/notes.jpg
-    alt: "notes"
-    title: "Notes"
-    excerpt: "My Data Science Notebook"
-    url: "/notes/"
+    alt: "blog"
+    title: "Blog"
+    excerpt: "My Data Science Blog"
+    url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "All Notes"      
 ---
