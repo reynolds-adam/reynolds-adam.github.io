@@ -5,7 +5,7 @@ author_profile: true
 type: splash
 header:
   overlay_color: "#0f5057"
-  overlay_filter: "0.5"
+  --overlay_filter: "0.5"
 ---
 
 
@@ -18,7 +18,7 @@ But how does someone become a data scientist? Truth be told, there are a lot of 
 If you decide graduate school is the route for you, there are some things you should consider before choosing a program. These are steps will help you make sure to choose a program that gets you be best value for your time and money.
 
 
-## 1. Price
+### 1. Price
 tuition reimbursement, self-pay
 
 The first thing to consider is price. How much will the program cost when all is said and done? Tuition and fees are typically the largest expenses in a graduate school. Does the school offer graduate scholarships that you are a good candidate for? If so, apply early so that you can take that into consideration before making a final decision.
@@ -29,23 +29,23 @@ Another thing to think about is the cost of applying to the school. Do they requ
 
 
 
-## 2. Delivery
+### 2. Delivery
 
 Another important thing to discover is course delivery. Is the program available online or in-class only? One benefit of online programs, is the convenience. You can attend class from the comfort of your home without traveling to a university. This is especially important if you are  working while attending school.
 
 Although online programs are more convenient, you miss out on several important benefits of an in-class program such as networking and relationship building. Graduate school is a great time to build connections and collaborate on difficult projects. While not impossible online, you cannot beat face-to-face interaction.
 
 
-## Name of degree
+### 3. Name of degree
 CIS, Business Analytics, Data Science, etc.
 
 
-## Curriculum
+### 4. Curriculum
 What skills do you want to learn?
 
-## School
+### 5. School
 Highly rated schools, good reputation, geographic region
 
 
-## Time
+### 6. Time
 How long does it take to complete the program? When can you start?
