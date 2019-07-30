@@ -5,7 +5,7 @@ description: "6 Things to Consider"
 tags: ["Data Science"]
 layout: single
 author_profile: true
-type: splash
+type: posts
 header:
   overlay_color: "#8a224c"
 ---
