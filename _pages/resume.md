@@ -21,7 +21,7 @@ header:
 * Develop forecasts using time series and machine learning methods to predict future outcomes
 * Create and distribute executive level dashboards and reports using Tableau and Cognos
 * Work with data throughout the ETL process with APIs, data warehouse pipelines, and SQL object creation and queries
-* Perform ad-hoc analysis for numerous departments with varying needs
+* Perform ad-hoc analysis for faculty members to support university initiatives
 
 ### **Utah Local Governments Trust**
 **Data Analyst** *(2015-2017)*
