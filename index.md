@@ -27,14 +27,14 @@ feature_row:
     excerpt: "Some projects I have been working on"
     url: "/recent-projects/"
     btn_class: "btn--primary"
-    btn_label: "Recent Projects"
+    btn_label: "Recent projects"
   - image_path: /assets/images/home/notes.jpg
     alt: "blog"
     title: "Blog"
     excerpt: "My Data Science Blog"
     url: "/blog/"
     btn_class: "btn--primary"
-    btn_label: "All Notes"      
+    btn_label: "All blog posts"      
 ---
 
 {% include feature_row id="intro" type="center" %}
