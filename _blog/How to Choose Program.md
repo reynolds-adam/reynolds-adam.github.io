@@ -30,9 +30,9 @@ Another thing to think about is the cost of applying to the school. Do they requ
 
 ### 2. Delivery
 
-Another important thing to discover is course delivery. Is the program available online or in-class only? One benefit of online programs, is the convenience. You can attend class from the comfort of your home without traveling to a university. This is especially important if you are  working while attending school.
+Another important thing to consider is course delivery. Is the program available online or in-class only? One benefit of online programs, is the convenience. You can attend class from the comfort of your home without traveling to a university. This is especially important if you are working while attending school.
 
-Although online programs are more convenient, you miss out on several important benefits of an in-class program such as networking and relationship building. Graduate school is a great time to build connections and collaborate on difficult projects. While not impossible online, you cannot beat face-to-face interaction.
+Although online programs are more convenient, you miss out on several important benefits of an in-class program such as networking and relationship building. Graduate school is a great time to build connections and collaborate on projects. While not impossible online, you cannot beat face-to-face interaction.
 
 
 ### 3. Name of degree
