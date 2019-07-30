@@ -1,6 +1,12 @@
 ---
 title: "How to Choose a Graduate Program in Data Science"
 classes: wide
+layout: single
+author_profile: true
+type: splash
+header:
+  overlay_color: "#5e616c"
+  overlay_filter: "0.5"
 ---
 
 
