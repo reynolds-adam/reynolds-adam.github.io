@@ -1,5 +1,8 @@
 ---
+date: 2019-07-30T12:00:00-01:00
 title: "How to Choose a Graduate Program in Data Science"
+description: "6 Things to Consider"
+tags: ["Data Science"]
 layout: single
 author_profile: true
 type: splash
