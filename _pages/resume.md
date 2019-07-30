@@ -18,6 +18,7 @@ header:
 ### **Western Governors University**
 **Analyst, Institutional Research** *(2017-Present)*
 
+* Develop forecasts using time series and machine learning methods to predict future outcomes
 * Create and distribute executive level dashboards and reports using Tableau and Cognos
 * Work with data throughout the ETL process with APIs, data warehouse pipelines, and SQL object creation and queries
 * Perform ad-hoc analysis for numerous departments with varying needs
