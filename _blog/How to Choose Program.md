@@ -4,8 +4,7 @@ layout: single
 author_profile: true
 type: splash
 header:
-  overlay_color: "#0f5057"
-  --overlay_filter: "0.5"
+  overlay_color: "#8a224c"
 ---
 
 
