@@ -1,7 +1,8 @@
 ---
-permalink: /blog/
+layout: collection
 title: "Blog"
-layout: posts
+collection: blog
+permalink: /blog/
 author_profile: true
 header:
   overlay_color: "#000"
