@@ -109,11 +109,11 @@ author:
   avatar           : "/assets/images/headshot1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
   location         : "SLC, UT"
-  email            : "adamreynolds89@gmail.com"
+  email            : "adamreynoldsdata@gmail.com"
   links:
     #- label: "Email"
      # icon: "fas fa-fw fa-envelope-square"
-     # url: mailto:adamreynolds89@gmail
+     # url: mailto:adamreynoldsdata@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
