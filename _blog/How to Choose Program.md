@@ -8,7 +8,7 @@ header:
 ---
 
 
-# 6 Things to Consider When Choosing a Graduate Program in Data Science
+## 6 Things to Consider When Choosing a Graduate Program in Data Science
 
 It's no secret that data science is a popular career right now. Harvard Business review declared it the [*Sexiest Job of the 21st Century*](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) and Glassdoor.com ranked it the [top job in America](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) 4 years in a row. Basically, its a great time to become a data scientist.
 
