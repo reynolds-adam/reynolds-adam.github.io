@@ -1,6 +1,5 @@
 ---
 title: "How to Choose a Graduate Program in Data Science"
-classes: wide
 layout: single
 author_profile: true
 type: splash
