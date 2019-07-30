@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 type: splash
 header:
-  overlay_color: "#156c75"
+  overlay_color: "#0f5057"
   overlay_filter: "0.5"
 ---
 
@@ -19,17 +19,21 @@ If you decide graduate school is the route for you, there are some things you sh
 
 
 ## 1. Price
-Scholarships, tuition reimbursement, self-pay, application fees, GRE, Transcripts
+tuition reimbursement, self-pay
 
-The first thing to consider is price. How much will the program cost when all is said and done? Tuition and fees are typically the largest expenses in a graduate school. Additionally, make sure to also include the cost of books, materials, and software as these things can quickly add up. If you are not able to find this information on the program website, reach out to the program chair or an alumni of the program via social media.
+The first thing to consider is price. How much will the program cost when all is said and done? Tuition and fees are typically the largest expenses in a graduate school. Does the school offer graduate scholarships that you are a good candidate for? If so, apply early so that you can take that into consideration before making a final decision.
+
+Additionally, make sure to also include the cost of books, materials, and software as these things can quickly add up. If you are not able to find this information on the program website, reach out to the program chair or an alumni of the program via social media.
 
 Another thing to think about is the cost of applying to the school. Do they require you to take the GRE, send official transcripts, or pay an application fee? Since these expenses are not covered by student loans, they are important to keep in mind. Nor that a $100 application fee should keep you from applying to your top school, it may be smart to apply to some 
 
 
 
+## 2. Delivery
 
-## 2. Location
-Online or in class
+Another important thing to discover is course delivery. Is the program available online or in-class only? One benefit of online programs, is the convenience. You can attend class from the comfort of your home without traveling to a university. This is especially important if you are  working while attending school.
+
+Although online programs are more convenient, you miss out on several important benefits of an in-class program such as networking and relationship building. Graduate school is a great time to build connections and collaborate on difficult projects. While not impossible online, you cannot beat face-to-face interaction.
 
 
 ## Name of degree
