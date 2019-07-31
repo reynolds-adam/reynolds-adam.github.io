@@ -7,9 +7,9 @@ main:
   - title: "Blog"
     url: /blog/
     description: "My Data Science Blog"
-  - title: "Notes"
-    url: /notes/
-    description: "Data Science Notes"
+#  - title: "Notes"
+#    url: /notes/
+#    description: "Data Science Notes"
   - title: "About"
     url: /about/
     description: "A few details about me"
