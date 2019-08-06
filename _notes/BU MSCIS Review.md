@@ -1,6 +1,6 @@
 ---
-date: 2019-07-30T12:00:00-01:00
 title: "BU MSCIS Review"
+date: 2019-07-30T12:00:00-01:00
 description: "10 Takeaways"
 tags: ["Data Science"]
 layout: single
