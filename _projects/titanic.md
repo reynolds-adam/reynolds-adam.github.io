@@ -1,7 +1,6 @@
 ---
 title: "How to Survive the Titanic"
 classes: wide
-
 ---
 
 
