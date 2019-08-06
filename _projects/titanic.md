@@ -5,7 +5,6 @@ header:
   overlay_color: "#349fd1"
 description: "How to Survive the Titanic"
 tags: ["python", "random forest", "machine learning"]
-type: posts
 excerpt: 'An analysis on how to survive the one of the deadliest shipwrecks in history'
 category: projects
 classes: wide
