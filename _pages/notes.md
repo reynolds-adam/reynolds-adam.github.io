@@ -1,8 +1,8 @@
 ---
-layout: collection
-title: "Notes"
-collection: notes
 permalink: /notes/
+title: "Notes"
+layout: collection
+collection: notes
 author_profile: false
 header:
   overlay_color: "#5e616c"
