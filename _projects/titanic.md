@@ -1,10 +1,8 @@
 ---
+date: 2019-03-21T11:25:05-04:00
 title: "How to Survive the Titanic"
-date: 2019-03-17T11:25:05-04:00
-description: "How to Survive the Titanic"
 layout:single
 tags: ["python", "random forest", "machine learning"]
---excerpt: 'An analysis on how to survive the one of the deadliest shipwrecks in history'
 category: projects
 type: posts
 classes: wide
