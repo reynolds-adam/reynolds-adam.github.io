@@ -2,6 +2,7 @@
 permalink: /projects/
 title: "Projects"
 layout: collection
+collection: projects
 author_profile: true
 header:
   overlay_color: "#000"
