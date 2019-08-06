@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Blog"
-collection: blog
+collection: posts
 permalink: /blog/
 author_profile: true
 header:
