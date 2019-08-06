@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 title: "Projects"
-layout: posts
+layout: collection
 author_profile: true
 header:
   overlay_color: "#000"
