@@ -1,13 +1,7 @@
 ---
-date: 2019-03-21T11:25:05-04:00
 title: "How to Survive the Titanic"
-layout:single
-tags: ["python", "random forest", "machine learning"]
-category: projects
-type: posts
 classes: wide
-header:
-  overlay_color: "#349fd1"
+
 ---
 
 
