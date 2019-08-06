@@ -1,6 +1,7 @@
 ---
 date: 2019-07-30T12:00:00-01:00
 title: "How to Choose a Graduate Program in Data Science"
+exerpt: "It's no secret that data science is a popular career right now. Harvard Business review declared it the Sexiest Job of the 21st Century"
 description: "6 Things to Consider"
 category: Education
 tags: ["Data Science"]
