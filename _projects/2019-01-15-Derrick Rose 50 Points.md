@@ -8,7 +8,9 @@ classes: wide
 ---
 
 
-# Derrick Rose
+# Derrick Rose Joins the 50 Point Club
+
+On October 31st, 2018, I was watching a basketball game between the Utah Jazz and Minnesota Timberwolves. Derrick Rose, recently traded to the 
 
 
 ```python
