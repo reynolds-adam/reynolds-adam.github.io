@@ -1,6 +1,9 @@
 ---
 title: "How to Survive the Titanic"
 classes: wide
+author_profile: true
+header:
+  overlay_color: "#4281f5"
 ---
 
 
