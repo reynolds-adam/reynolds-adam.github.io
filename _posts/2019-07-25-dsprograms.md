@@ -1,7 +1,7 @@
 ---
 date: 2019-07-30T12:00:00-01:00
 title: "6 Things to Consider When Choosing a Graduate Program in Data Science"
-exerpt: "Keep these things in mind when making your decision"
+excerpt: "Keep these things in mind when making your decision"
 description: "6 Things to Consider"
 category: Education
 tags: ["Data Science"]
@@ -23,9 +23,9 @@ If you decide graduate school is the route for you, there are some things you sh
 ### 1. Price
 tuition reimbursement, self-pay
 
-The first thing to consider is price. How much will the program cost when all is said and done? Tuition and fees are typically the largest expenses in a graduate school. Does the school offer graduate scholarships that you are a good candidate for? If so, apply early so that you can take that into consideration before making a final decision.
+The first thing to consider is price. How much will the program cost when all is said and done? Tuition and fees are typically the largest expenses in a graduate school. Does the school offer graduate scholarships that you are a candidate for? If so, apply early so that you can take that into consideration before making a final decision.
 
-Additionally, make sure to also include the cost of books, materials, and software as these things can quickly add up. If you are not able to find this information on the program website, reach out to the program chair or an alumni of the program via social media.
+Make sure to also include the cost of books, materials, and software as these things can quickly add up. If you are not able to find this information on the program website, reach out to the program chair or an alumni of the program via social media.
 
 Another thing to think about is the cost of applying to the school. Do they require you to take the GRE, send official transcripts, or pay an application fee? Since these expenses are not covered by student loans, they are important to keep in mind. Nor that a $100 application fee should keep you from applying to your top school, it may be smart to apply to some 
 
