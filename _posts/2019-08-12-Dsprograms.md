@@ -1,5 +1,5 @@
 ---
-date: 2019-07-30T12:00:00-01:00
+date: 2019-08-12T12:00:00-01:00
 title: "5 Things to Consider When Choosing a Graduate Program in Data Science"
 excerpt: "Keep these things in mind when making your decision"
 description: "5 Things to Consider"
