@@ -11,9 +11,12 @@ type: posts
 header:
   overlay_color: "#8a224c"
 ---
-#### August 12th, 2019 
 
 ![](/assets/images/Blog/university.jpg)
+
+
+#### August 12th, 2019 
+
 
 It's no secret that data science is a popular career right now. Harvard Business review declared it the [*Sexiest Job of the 21st Century*](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) and Glassdoor.com ranked it the [top job in America](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) 4 years in a row. Basically, its a great time to become a data scientist.
 
@@ -23,11 +26,10 @@ If you decide graduate school is the route for you, there are some things you sh
 
 
 ### 1. Price
-![Photo Caption](/assets/images/Blog/money.jpg)
-
-
 
 The first thing to consider is price. How much will the program cost when all is said and done? Tuition and fees are typically the largest expenses in a graduate school. Tuition for data science programs can range anywhere from 15k to 95k, however most programs are in the 35-45k range.
+
+![Photo Caption](/assets/images/Blog/money.jpg)
 
 Does the school offer graduate scholarships that you are a candidate for? If so, apply early so that you can take that into consideration before making a final decision.
 
