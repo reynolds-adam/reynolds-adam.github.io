@@ -12,7 +12,6 @@ header:
   overlay_color: "#8a224c"
 ---
 
-![](/assets/images/Blog/university.jpg)
 
 
 #### August 12th, 2019 
@@ -42,6 +41,8 @@ Make sure to ask your current employer about tuition reimbursement options. Most
 
 ### 2. Curriculum
 When it comes to a masters degree, the curriculum is vital. In my opinion it should be the most important factor when choosing a program. The goal of the program is to give you skills that will make you valuable to a company. So, what skills do you want to learn. This step will probably be the most time consuming because you will need to do a lot of research. 
+
+![](/assets/images/Blog/university.jpg)
 
 Look at job postings that you would like to have and see what skills are required. Then look for programs that focus on those skills in the curriculum. This is one step that many people overlook. If every other box is checked, but the curriculum is not what you want, it should be a deal-breaker.
 
