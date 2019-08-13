@@ -60,9 +60,10 @@ Other degree names include Business Analytics, Data Analytics, Analytics, Inform
 
 Another important thing to consider is course delivery. Is the program available online or in-class only? One benefit of online programs, is the convenience. You can attend class from the comfort of your home without traveling to a university. This is especially important if you are working while attending school. Even if there is a university 20 minutes from your home, that is time that you could spend studying if you are in an online program.
 
+![The benefits of in class learning may be outweighted by the inconvenience of travel](/assets/images/Blog/classroom.jpg)
+
 Although online programs are more convenient, you miss out on several important benefits of an in-class program such as networking and relationship building. Graduate school is a great time to build connections and collaborate on projects. While not impossible online, you cannot beat face-to-face interaction.
 
-![The benefits of in class learning may be outweighted by the inconvenience of travel](/assets/images/Blog/classroom.jpg)
 
 
 ### 5. Time
