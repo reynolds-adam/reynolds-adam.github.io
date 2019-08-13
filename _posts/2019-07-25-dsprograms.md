@@ -23,14 +23,15 @@ If you decide graduate school is the route for you, there are some things you sh
 
 
 ### 1. Price
+![Photo Caption](/assets/images/Blog/money.jpg)
+
+
 
 The first thing to consider is price. How much will the program cost when all is said and done? Tuition and fees are typically the largest expenses in a graduate school. Tuition for data science programs can range anywhere from 15k to 95k, however most programs are in the 35-45k range.
 
 Does the school offer graduate scholarships that you are a candidate for? If so, apply early so that you can take that into consideration before making a final decision.
 
 Make sure to also include the cost of books, materials, and software as these things can quickly add up. If you are not able to find this information on the program website, reach out to the program chair or an alumni of the program via social media.
-
-![Photo Caption](/assets/images/Blog/money.jpg)
 
 Another thing to think about is the cost of applying to the school. Do they require you to take the GRE, send official transcripts, or pay an application fee? Since these expenses are not covered by student loans, they are important to keep in mind. A $100 application fee should not keep you from applying to your top school, but it may be smart to apply to some schools with lower applications fees all else being equal.
 
