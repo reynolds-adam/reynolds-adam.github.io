@@ -27,7 +27,7 @@ The first thing to consider is price. How much will the program cost when all is
 Does the school offer graduate scholarships that you are a candidate for? If so, apply early so that you can take that into consideration before making a final decision.
 
 Make sure to also include the cost of books, materials, and software as these things can quickly add up. If you are not able to find this information on the program website, reach out to the program chair or an alumni of the program via social media.
-
+![Photo Caption](/assets/images/Blog/money.jpg)
 Another thing to think about is the cost of applying to the school. Do they require you to take the GRE, send official transcripts, or pay an application fee? Since these expenses are not covered by student loans, they are important to keep in mind. A $100 application fee should not keep you from applying to your top school, but it may be smart to apply to some schools with lower applications fees all else being equal.
 
 Make sure to ask your current employer about tuition reimbursement options. Most companies have such programs, so it is a good idea to understand their policy. Watch out for clauses that require you to stay at the company a certain number of years to avoid payback. This is really important because you will likely be looking for a new job as soon as you finish your degree.
@@ -51,7 +51,9 @@ Other degree names include Business Analytics, Data Analytics, Analytics, Inform
 
 
 ### 4. Curriculum
-When it comes to a masters degree, the curriculum is the most important thing. In my opinion it should be the most important factor when choosing a program. The goal of the program is to give you skills that will make you valuable to a company. So, what skills do you want to learn. This step will probably be the most time consuming because you will need to do a lot of research. Look at job postings that you would like to have and see what skills are required. Then look for programs that focus on those skills in the curriculum. This is one step that many people overlook, but should be the most important. If every other box is checked, but the curriculum is not what you want, it should be a deal-breaker.
+When it comes to a masters degree, the curriculum is vital. In my opinion it should be the most important factor when choosing a program. The goal of the program is to give you skills that will make you valuable to a company. So, what skills do you want to learn. This step will probably be the most time consuming because you will need to do a lot of research. 
+
+Look at job postings that you would like to have and see what skills are required. Then look for programs that focus on those skills in the curriculum. This is one step that many people overlook. If every other box is checked, but the curriculum is not what you want, it should be a deal-breaker.
 
 
 ### 5. Time
