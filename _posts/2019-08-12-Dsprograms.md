@@ -1,7 +1,7 @@
 ---
 date: 2019-08-12T12:00:00-01:00
 title: "5 Things to Consider When Choosing a Graduate Program in Data Science"
-excerpt: "Keep these things in mind when making your decision"
+excerpt: "For those of us who can't help but over-analyze"
 description: "5 Things to Consider"
 category: Education
 tags: ["Data Science", "Masters Degree"]
