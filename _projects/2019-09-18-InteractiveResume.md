@@ -10,7 +10,7 @@ classes: wide
 An interactive resume using Tableau to highlight my academic and professional experience.  
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/shared/8HFH4MZR2?:embed=y:display_count=yes&:origin=viz_share_link" width = '1000' height = '700' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/shared/8HFH4MZR2?:embed=y:display_count=yes&:showVizHome=no" width = '1000' height = '700' scrolling='yes' ></iframe>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/MoreyBall/MoreyStats?:embed=y&:display_count=yes&:showVizHome=no" width = '1000' height = '700' scrolling='yes' ></iframe>
 
