@@ -7,7 +7,7 @@ type: posts
 classes: wide
 ---
 
-An interactive visualization showing the relationship between the percentage of Morey Ball shots and Morey true shooting percentage.  
+An interactive resume using Tableau to highlight my academic and professional experience.  
 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/shared/58S33SMCD?:display_count=yes&:origin=viz_share_link" width = '1000' height = '700' scrolling='yes' ></iframe>
