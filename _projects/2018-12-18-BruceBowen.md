@@ -12,4 +12,4 @@ My friend, created this cool visualization to compare 3pt shooting percentage vs
 Check out how your favorite players stack up by searching in the box and clicking on the player's name.
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/MoreyBall/MoreyStats?:embed=y&:display_count=yes&:showVizHome=no" width = '1000' height = '1300' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Bruce_Bowen/3-PointandFT?:embed=y&:display_count=yes&:origin=viz_share_link" width = '1000' height = '1300' scrolling='yes' ></iframe>
