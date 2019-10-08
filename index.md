@@ -34,9 +34,7 @@ feature_row:
     excerpt: "My Data Science Blog"
     url: "/blog/"
     btn_class: "btn--primary"
-    btn_label: "All blog posts"
-
-	
+    btn_label: "All blog posts"      
 ---
 
 {% include feature_row id="intro" type="center" %}
