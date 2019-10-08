@@ -8,9 +8,13 @@ classes: wide
 ---
 
 
-# Derrick Rose Joins the 50 Point Club
+On October 31st, 2018, I was watching a basketball game between the Utah Jazz and Minnesota Timberwolves. Being an avid Jazz fan,I felt confident that Jazz would get a victory. Derrick Rose was recently traded to the Timberwolves, and I remember that I was surprised that he was still in the league after a few down years and so many injuries. Additionally, I was sure he would not have a big role in the game, and thought he may not even play. 
 
-On October 31st, 2018, I was watching a basketball game between the Utah Jazz and Minnesota Timberwolves. Derrick Rose, recently traded to the 
+This could not have been further from the truth. Rose scored a career high 50 points. Yes, more points than he scored in any game during his MVP season. His previous career was 42, in 2011. To top it all off, the Jazz lost the game, largely in part to Rose's incredible game. 
+
+Final score 128-125.
+
+Check out the code below to see how we gathered, cleaned and plotted each game in Derrick Rose's career. Make sure to scroll to the very bottom to see the plot. All data was taken from nba.com.
 
 
 ```python
