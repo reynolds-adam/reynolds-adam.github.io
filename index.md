@@ -53,24 +53,7 @@ feature_row2:
     url: "https://reynolds-adam.github.io/projects/titanic/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-	
-feature_row3:
-  - image_path: /assets/images/basic/bell_curve.png
-    alt: "placeholder image 2"
-    title: "Is the Gaussian Distribution Really Normal?"
-    excerpt: 'The sample text is nice because most people will not even read it anyway.'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-	
-feature_row4:
-  - image_path: /assets/images/basic/wordcloud.png
-    alt: "placeholder image 2"
-    title: "Analysis of Twitter Text Data"
-    excerpt: 'Are Canadians really as nice as they seem? How to they compare to Australians?'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"	
+
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -78,9 +61,3 @@ feature_row4:
 {% include feature_row id="feature_row" %}
 
 {% include feature_row id="feature_row1" type="left" %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="left" %}
-
-{% include feature_row id="feature_row4" type="left" %}
