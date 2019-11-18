@@ -1,10 +1,14 @@
 ---
 date: 2019-11-17T11:25:00-00:00
 description: "Amazon Price Checker"
+excerpt: "What if I told you you could automate Amazon shopping with Python?" 
 tags: ["python", "automation"]
 title: "How to Create an Automated Amazon Price Checker with Python"
+layout: single
+author_profile: true
 type: posts
-classes: wide
+header:
+  overlay_color: "#4357ad"
 ---
 
 <!-- # Automated Price Checker on Amazon -->
