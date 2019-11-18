@@ -5,7 +5,7 @@ excerpt: "For those of us who can't help but to over-analyze everything"
 description: "5 Things to Consider"
 category: Education
 tags: ["Data Science", "Masters Degree"]
-layout: single
+layout: wide
 author_profile: true
 type: posts
 header:

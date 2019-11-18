@@ -5,7 +5,7 @@ excerpt: "What if I told you you could automate Amazon shopping with Python?"
 tags: ["python", "automation"]
 title: "How to Create an Automated Amazon Price Checker with Python"
 layout: single
-author_profile: true
+author_profile: wide
 type: posts
 header:
   overlay_color: "#4357ad"
