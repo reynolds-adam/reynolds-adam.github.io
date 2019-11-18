@@ -4,7 +4,7 @@ title: "How to Create an Automated Amazon Price Checker with Python"
 excerpt: "What if I told you you could automate Amazon shopping with Python?" 
 description: "Amazon Price Checker"
 # category:
-tags: ["python", "automation"]
+tags: ["Python", "Automation"]
 layout: single
 author_profile: wide
 type: posts
