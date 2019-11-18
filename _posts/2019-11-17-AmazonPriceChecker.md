@@ -96,7 +96,7 @@ def send_email(price):
     server.starttls()
     server.ehlo()
     # login to email using two-step google verification app password
-    server.login('adamreynoldsdata@gmail.com', 'icfttbeoonhlckou')
+    server.login('adamreynoldsdata@gmail.com', '<password>')
     subject = 'Price Drop to ' + str(price) +' on Sony Headphones'
     body = 'Check the Amazon link: ' + str(URL)
     msg = f"Subject: {subject} \n\n {body}"
