@@ -1,9 +1,10 @@
 ---
-date: 2019-11-17T11:25:00-00:00
-description: "Amazon Price Checker"
-excerpt: "What if I told you you could automate Amazon shopping with Python?" 
-tags: ["python", "automation"]
+date: 2019-11-17T11:25:00-01:00
 title: "How to Create an Automated Amazon Price Checker with Python"
+excerpt: "What if I told you you could automate Amazon shopping with Python?" 
+description: "Amazon Price Checker"
+# category:
+tags: ["python", "automation"]
 layout: single
 author_profile: wide
 type: posts
@@ -12,6 +13,7 @@ header:
 ---
 
 <!-- # Automated Price Checker on Amazon -->
+#### November 17th, 2019 
 
 Have you ever seen an item on Amazon that you wanted, but it was more than you wanted to spend? Did you check the price daily, hoping for a sale? What if I told you you could automate this process with Python? If you answered 'yes' or 'cool' to any of these questions, then keep reading.
 
