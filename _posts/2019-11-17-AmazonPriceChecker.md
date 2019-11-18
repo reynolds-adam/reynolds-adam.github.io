@@ -6,7 +6,7 @@ description: "Amazon Price Checker"
 # category:
 tags: ["Python", "Automation"]
 layout: single
-author_profile: wide
+author_profile: true
 type: posts
 header:
   overlay_color: "#4357ad"
