@@ -29,7 +29,7 @@ feature_row:
     url: "/recent-projects/"
     btn_class: "btn--primary"
     btn_label: "Recent projects"
-  - image_path: /assets/images/home/resume-icon-256.png
+  - image_path: /assets/images/home/resume-icon-512.png
     alt: "blog"
     title: "Blog"
     excerpt: "My Data Science Blog"
