@@ -22,7 +22,7 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/home/blog-icon-256.png
+  - image_path: /assets/images/home/blog-icon-128.png
     alt: "projects"
     title: "Projects"
     excerpt: "Some projects I have been working on"
