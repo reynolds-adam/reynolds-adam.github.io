@@ -43,7 +43,7 @@ feature_row:
 {% include feature_row %}
 
 <br>
-<h1>Latest Post</h1>
+<h1>Latest Posts</h1>
 {% for post in site.posts limit:5 %}
 <li><a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a></li>  
 {% endfor %}

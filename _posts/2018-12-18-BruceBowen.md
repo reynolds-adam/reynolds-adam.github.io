@@ -1,13 +1,19 @@
 ---
 date: 2018-12-18T00:45:05-04:00
-description: "3pt% by FT%"
-tags: ["tableau", "data-viz"]
 title: "The Curious Case of Bruce Bowen"
+excerpt: "Bruce Bowen is a strange case because his 3pt% was higher than his FT% in the 2002-03 NBA season."
+description: "3pt% by FT%"
+# category:
+tags: ["tableau", "data-viz"]
+layout: single
+author_profile: true
 type: posts
 classes: wide
+  
 ---
 
-My friend, created this cool visualization to compare 3pt shooting percentage vs free throw percentage. Bruce Bowen was a strange case because his 3pt% was above average and his FT% was below average. 
+
+A friend of mine created this cool visualization to compare 3pt shooting percentage vs free throw percentage for NBA players. Bruce Bowen is a strange case because his 3pt% was higher than his FT% in the 2002-03 NBA season. 
 
 Check out how your favorite players stack up by searching in the box and clicking on the player's name.
 
