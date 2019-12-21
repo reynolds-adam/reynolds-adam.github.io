@@ -34,7 +34,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/basic/wordcloud.png
+  - image_path: /assets/images/basic/wordcloud_small.png
     alt: "placeholder image 2"
     title: "Analysis of Twitter Text Data"
     excerpt: 'Are Canadians really as nice as they seem? How to they compare to Australians?'
