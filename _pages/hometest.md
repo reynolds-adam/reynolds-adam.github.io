@@ -8,8 +8,8 @@ header:
   actions:
     - label: "<i class='fas fa-file'></i>  See my resume"
       url: "/resume/"
-excerpt: >
-  Welcome to my website. Check out some of the things I’ve been working on recently, and feel free to contact me if you have any questions.<br />
+excerpt: 
+  Welcome to my website. Check out some of the things I’ve been working on recently, and feel free to contact me if you have any questions.<br>
 
 intro:  
   - excerpt: '“If you just use the scientific method as a way to approach data-intensive projects, I think you’re more apt to be successful with your outcome.” *-* *Bob Hayes*'
@@ -41,3 +41,9 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+<br>
+<h1>Latest Post</h1>
+{% for post in site.posts limit:5 %}
+<li><a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a></li>  
+{% endfor %}
