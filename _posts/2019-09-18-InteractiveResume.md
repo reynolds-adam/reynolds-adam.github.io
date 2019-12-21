@@ -1,8 +1,8 @@
 ---
 date: 2019-09-18T00:45:05-04:00
-description: "Interactive Resume using Tableau"
+description: "Adam's Interactive Resume"
 tags: ["tableau", "data-viz"]
-title: "Adam's Interactive Resume"
+title: "Interactive Resume using Tableau"
 type: posts
 classes: wide
 ---
