@@ -30,15 +30,6 @@ intro:
 # <br>{{ post.date | date: "%B %d, %Y" }}
 # {% endfor %}
 
-feature_row:
-  - image_path: "assets\images\basic\wordcloud_small.png"
-    alt: "about"
-    title: {{ post.title }}
-    excerpt: {{ post.excerpt }}
-    url: "{{ https://adamreynoldsdata.com/ }}{{ post.url }}"
-    btn_class: "btn--primary"
-    btn_label: "Read more"
-
 
 <br>
 <h1>Latest Posts</h1>
