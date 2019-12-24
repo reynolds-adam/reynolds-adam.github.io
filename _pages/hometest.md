@@ -51,7 +51,7 @@ intro:
     <div class="feature__item--left">
       <div class="archive__item">
         <div class="archive__item-teaser">
-          <img src="assets/images/home/wordcloud_small.png">
+          <img src=assets/images/home/wordcloud_small.png>
         </div>
       </div>
       <div class="archive__item-body">
