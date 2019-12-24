@@ -59,7 +59,7 @@ intro:
         <h2 class="archive__item-title">{{ post.title }}</h2>
         <div class="archive__item-excerpt">
           {{ post.excerpt | markdownify }}
-          <p><a>href="/Titanic/"</a></p>
+          <p><a>href="https://adamreynoldsdata.com/Titanic/"</a></p>
         </div>
       </div>
     </div>
