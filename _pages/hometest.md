@@ -58,7 +58,7 @@ intro:
       <div class="archive__item-body">
         <h2 class="archive__item-title">{{ post.title }}</h2>
         <div class="archive__item-excerpt">
-          {{ f.excerpt | markdownify }}
+          {{ post.excerpt | markdownify }}
           <p><a>href="/Titanic/"</a></p>
         </div>
       </div>
