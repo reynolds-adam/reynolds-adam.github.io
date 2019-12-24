@@ -34,14 +34,36 @@ intro:
 <br>
 <h1>Latest Posts</h1>
 {% for post in site.posts limit:5 %}
-  feature_row:
-  - image_path: "assets\images\home\wordcloud_small.png"
-    alt: "about"
-    title: {{ post.title }}
-    excerpt: {{ post.excerpt }}
-    url: "{{ https://adamreynoldsdata.com/ }}{{ post.url }}"
-    btn_class: "btn--primary"
-    btn_label: "Read more"
-  { feature_row id="feature_row" type="left" }
+  post title: {{post.title}} <br>
+  post url: {{post.url}} <br>
+  post excerpt: {{post.excerpt}} <br>
+  post alt : {{post.alt}}
+
 
 {% endfor %}
+
+
+<div class="feature__wrapper">
+
+  {% for post in site.posts limit:5 %}
+    {% capture post_url %}{{ post.url }}{% endcapture %}
+    <div class="feature__item--left">
+      <div class="archive__item">
+        <div class="archive__item-teaser">
+          <img src=
+          alt="{{ post.alt }}">
+          Image caption here
+            <span class="archive__item-caption"> Image Caption goes here</span>
+        </div>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">{{ post.title }}</h2>
+        <div class="archive__item-excerpt">
+          Here is some excerpt text.
+          <p><a>href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}"</a></p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
