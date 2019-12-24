@@ -43,7 +43,14 @@ feature_row:
 <br>
 <h1>Latest Posts</h1>
 {% for post in site.posts limit:5 %}
-
+  feature_row:
+  - image_path: "assets\images\basic\wordcloud_small.png"
+    alt: "about"
+    title: {{ post.title }}
+    excerpt: {{ post.excerpt }}
+    url: "{{ https://adamreynoldsdata.com/ }}{{ post.url }}"
+    btn_class: "btn--primary"
+    btn_label: "Read more"
   { feature_row id="feature_row" type="left" }
 
 {% endfor %}
