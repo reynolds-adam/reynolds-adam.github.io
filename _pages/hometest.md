@@ -35,7 +35,7 @@ intro:
 <h1>Latest Posts</h1>
 {% for post in site.posts limit:5 %}
   feature_row:
-  - image_path: "assets\images\basic\wordcloud_small.png"
+  - image_path: "assets\images\home\wordcloud_small.png"
     alt: "about"
     title: {{ post.title }}
     excerpt: {{ post.excerpt }}
