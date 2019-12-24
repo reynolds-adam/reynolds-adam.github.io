@@ -54,3 +54,19 @@ feature_row:
 <a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a> 
 <br>{{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
+
+
+<br>
+<h1>Latest Posts</h1>
+{% for post in site.posts limit:5 %}
+feature_row:
+  - image_path: {{ post.related_image}}
+    alt: "about"
+    title: {{ post.title }}
+    excerpt: {{ post.excerpt }}
+    url: "{{ https://adamreynoldsdata.com/ }}{{ post.url }}"
+    btn_class: "btn--primary"
+    btn_label: "Read more"
+{% include feature_row id="feature_row" type="left" %}
+
+{% endfor %}
