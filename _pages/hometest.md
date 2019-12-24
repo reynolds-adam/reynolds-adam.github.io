@@ -44,6 +44,6 @@ feature_row:
 <h1>Latest Posts</h1>
 {% for post in site.posts limit:5 %}
 
-{% include feature_row id="feature_row" type="left" %}
+  { feature_row id="feature_row" type="left" }
 
 {% endfor %}
