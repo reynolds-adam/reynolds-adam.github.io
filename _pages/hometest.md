@@ -47,3 +47,14 @@ feature_row:
 {% for post in site.posts limit:5 %}
 <li><a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a></li>  
 {% endfor %}
+
+<br>
+<h1>Latest Posts</h1>
+{% for post in site.posts limit:5 %}
+<a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}
+<br>{{ post.date }}
+
+</a> 
+<br>
+
+{% endfor %}
