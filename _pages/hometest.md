@@ -51,7 +51,7 @@ intro:
     <div class="feature__item--left">
       <div class="archive__item">
         <div class="archive__item-teaser">
-          <img src="
+          <img src="assets\images\titanic.png">
             <span class="archive__item-caption"> Image Caption goes here</span>
         </div>
       </div>
