@@ -4,9 +4,9 @@ main:
   - title: "About"
     url: /about/
     description: "A few details about me"
-  - title: "Projects"
-    url: /projects/
-    description: "Some things I've worked on"
+  # - title: "Projects"
+  #   url: /projects/
+  #   description: "Some things I've worked on"
   - title: "Blog"
     url: /blog/
     description: "My Data Science Blog"
