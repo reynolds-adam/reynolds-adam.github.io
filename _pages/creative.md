@@ -1,6 +1,6 @@
 ---
 layout: front
-permalink: /about/
+permalink: /creative/
 ---
 
 site.page
