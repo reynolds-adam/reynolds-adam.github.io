@@ -17,18 +17,18 @@ intro:
 
 
 
-<br>
-<h1>Latest Posts</h1>
-{% for post in site.posts limit:5 %}
-<li><a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a></li>  
-{% endfor %}
+# <br>
+# <h1>Latest Posts</h1>
+# {% for post in site.posts limit:5 %}
+# <li><a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a></li>  
+# {% endfor %}
 
-<br>
-<h1>Latest Posts</h1>
-{% for post in site.posts limit:5 %}
-<a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a> 
-<br>{{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
+# <br>
+# <h1>Latest Posts</h1>
+# {% for post in site.posts limit:5 %}
+# <a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a> 
+# <br>{{ post.date | date: "%B %d, %Y" }}
+# {% endfor %}
 
 feature_row:
   - image_path: "assets\images\basic\wordcloud_small.png"
@@ -43,7 +43,6 @@ feature_row:
 <br>
 <h1>Latest Posts</h1>
 {% for post in site.posts limit:5 %}
-
 
 {% include feature_row id="feature_row" type="left" %}
 
