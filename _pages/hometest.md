@@ -52,8 +52,5 @@ feature_row:
 <h1>Latest Posts</h1>
 {% for post in site.posts limit:5 %}
 <a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a> 
-<br>{{ post.date | date: format: 'long' }}
-
-<br>
-
+<br>{{ post.date | format: 'long' }}
 {% endfor %}
