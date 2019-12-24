@@ -35,6 +35,7 @@ intro:
 <h1>Latest Posts</h1>
 {% for post in site.posts limit:5 %}
   post title: {{post.title}} <br>
+  <a>href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}"</a> <br>
   post url: {{post.url}} <br>
   post excerpt: {{post.excerpt}} <br>
   post alt : {{post.alt}}
@@ -50,16 +51,14 @@ intro:
     <div class="feature__item--left">
       <div class="archive__item">
         <div class="archive__item-teaser">
-          <img src=
-          alt="{{ post.alt }}">
-          Image caption here
+          <img src="
             <span class="archive__item-caption"> Image Caption goes here</span>
         </div>
       </div>
       <div class="archive__item-body">
         <h2 class="archive__item-title">{{ post.title }}</h2>
         <div class="archive__item-excerpt">
-          Here is some excerpt text.
+          {{ f.excerpt | markdownify }}
           <p><a>href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}"</a></p>
         </div>
       </div>
