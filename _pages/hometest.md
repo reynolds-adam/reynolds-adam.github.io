@@ -14,21 +14,21 @@ excerpt:
 
 intro:  
   - excerpt: '“If you just use the scientific method as a way to approach data-intensive projects, I think you’re more apt to be successful with your outcome.” *-* *Bob Hayes*'
+---
 
 
+<!-- <br>
+<h1>Latest Posts</h1>
+{% for post in site.posts limit:5 %}
+<li><a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a></li>  
+{% endfor %}
 
-# <br>
-# <h1>Latest Posts</h1>
-# {% for post in site.posts limit:5 %}
-# <li><a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a></li>  
-# {% endfor %}
-
-# <br>
-# <h1>Latest Posts</h1>
-# {% for post in site.posts limit:5 %}
-# <a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a> 
-# <br>{{ post.date | date: "%B %d, %Y" }}
-# {% endfor %}
+<br>
+<h1>Latest Posts</h1>
+{% for post in site.posts limit:5 %}
+<a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a> 
+<br>{{ post.date | date: "%B %d, %Y" }}
+{% endfor %} -->
 
 
 <br>
