@@ -52,7 +52,6 @@ intro:
       <div class="archive__item">
         <div class="archive__item-teaser">
           <img src="assets/images/home/wordcloud_small.png">
-            <span class="archive__item-caption"> Image Caption goes here</span>
         </div>
       </div>
       <div class="archive__item-body">
