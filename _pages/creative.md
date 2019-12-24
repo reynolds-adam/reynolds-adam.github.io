@@ -1,5 +1,6 @@
 ---
 layout: front
+permalink: /about/
 ---
 
 site.page
