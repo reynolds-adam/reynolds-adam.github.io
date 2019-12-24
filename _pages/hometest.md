@@ -54,3 +54,6 @@ feature_row:
 <a href="{{ https://adamreynoldsdata.com/ }}{{ post.url }}">{{ post.title }}</a> 
 <br>{{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
+
+<br>
+{% include portfolio.html %}
