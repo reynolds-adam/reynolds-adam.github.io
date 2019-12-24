@@ -46,7 +46,7 @@ intro:
 
 <div class="feature__wrapper">
 
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts limit:3 %}
     {% capture post_url %}{{ post.url }}{% endcapture %}
     <div class="feature__item--left">
       <div class="archive__item">
