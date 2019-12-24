@@ -22,13 +22,13 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/home/blog-icon-128.png
-    alt: "projects"
-    title: "Projects"
-    excerpt: "Some projects I have been working on"
-    url: "/recent-projects/"
-    btn_class: "btn--primary"
-    btn_label: "Recent projects"
+  # - image_path: /assets/images/home/blog-icon-128.png
+  #   alt: "projects"
+  #   title: "Projects"
+  #   excerpt: "Some projects I have been working on"
+  #   url: "/recent-projects/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Recent projects"
   - image_path: /assets/images/home/resume-icon-512.png
     alt: "blog"
     title: "Blog"
