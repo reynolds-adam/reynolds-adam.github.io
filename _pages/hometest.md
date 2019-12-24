@@ -30,10 +30,6 @@ intro:
 <br>{{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
 
-
-<br>
-<h1>Latest Posts</h1>
-{% for post in site.posts limit:5 %}
 feature_row:
   - image_path: "assets\images\basic\wordcloud_small.png"
     alt: "about"
@@ -42,6 +38,12 @@ feature_row:
     url: "{{ https://adamreynoldsdata.com/ }}{{ post.url }}"
     btn_class: "btn--primary"
     btn_label: "Read more"
+
+
+<br>
+<h1>Latest Posts</h1>
+{% for post in site.posts limit:5 %}
+
 
 {% include feature_row id="feature_row" type="left" %}
 
