@@ -57,7 +57,7 @@ intro:
       <div class="archive__item-body">
         <h2 class="archive__item-title">{{ post.title }}</h2>
         <div class="archive__item-excerpt">
-          {{ post.excerpt | markdownify }}
+          {{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
           <p><a>href="https://adamreynoldsdata.com/Titanic/"</a></p>
         </div>
       </div>
