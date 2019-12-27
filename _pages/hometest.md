@@ -31,7 +31,7 @@ intro:
 {% endfor %} -->
 
 
-<br>
+<!-- <br>
 <h1>Latest Posts</h1>
 {% for post in site.posts limit:5 %}
   post title: {{post.title}} <br>
@@ -39,9 +39,7 @@ intro:
   post url: {{post.url}} <br>
   post excerpt: {{post.excerpt}} <br>
   post alt : {{post.alt}}
-
-
-{% endfor %}
+{% endfor %} -->
 
 
 <div class="feature__wrapper">
