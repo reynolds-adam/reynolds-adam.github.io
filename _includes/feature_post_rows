@@ -1,5 +1,5 @@
-{% for post in site.posts limit:5 %}
 <div class="feature__wrapper">
+{% for post in site.posts limit:5 %}
   <div class = "feature__item--left">
     {% if post.teaser_image_path %}
 	<img src="{{ post.teaser_image_path }}" align="center" />
@@ -16,5 +16,5 @@
 	<p>{{ post.content | strip_html | truncatewords: 40 }}
 	</p>
   </div>
-</div>
 {% endfor %}
+</div>
