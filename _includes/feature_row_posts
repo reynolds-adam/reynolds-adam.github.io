@@ -12,7 +12,7 @@
       <div class="archive__item">
         {% if f.teaser_image_path %}
           <div class="archive__item-teaser">
-            <img src= "{{ f.teaser_image_path | relative_url }}">
+            <img src= "{{ f.teaser_image_path | relative_url }}" width="150" height="115">
           </div>
         {% endif %}
 
