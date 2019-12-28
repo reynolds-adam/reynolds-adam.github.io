@@ -46,4 +46,4 @@
 
 </div>
 
-{{site.posts}}
+{{site.posts.title}}
