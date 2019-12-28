@@ -12,7 +12,7 @@
                 {% endif %} align="center" />
 	{% endif %}
   </div>
-  <div style = "display: inline-block;">
+  <div style = "padding: 50px; display: inline-block;">
     <p><a href="{{ BASE_PATH }}{{ post.url }}"><h3>{{ post.title }}</h3></a></p>
 	<p>{{ post.content | strip_html | truncatewords: 40 }}
 	</p>
