@@ -8,7 +8,7 @@
       {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
     {% endif %}
 
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="feature__item--left">
       <div class="archive__item">
         {% if f.teaser_image_path %}
           <div class="archive__item-teaser">
@@ -37,7 +37,7 @@
           {% endif %}
 
           {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <p><a href="{{ f_url }}" class="btn "btn--primary"">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Read More" }}</a></p>
           {% endif %}
         </div>
       </div>
