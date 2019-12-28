@@ -20,7 +20,7 @@
       {% capture f_url %}{{ f.url | absolute_url }}{% endcapture %}
     {% endif %}
 
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="feature__item--left{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item"><a href="{{ f_url }}">
         {% if f.date %}
           <div class="archive__item-date"><i><time datetime="{{ f.date | date_to_xmlschema }}">{{ f.date | date: "%B %d, %Y" }}</time></i></div>
