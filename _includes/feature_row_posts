@@ -35,8 +35,3 @@
   {% endfor %}
 
 </div>
-
-{% for f in site.posts limit:5 %}
-    {{ f.title }}
-    {{ f.teaser_image_path | relative_url }}
-{% endfor %}
