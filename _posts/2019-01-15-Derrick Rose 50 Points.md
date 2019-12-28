@@ -5,7 +5,7 @@ excerpt: "Even in his MVP season, D-rose never scored 50 points in a season. 7 y
 description: "Derrick Rose's Outlier Performance"
 teaser_image_path: /assets/images/color_graph_small.jpg
 tags: ["nba", "python", "dataviz"]
-# layout: single
+layout: single
 author_profile: true
 type: posts
 classes: wide
