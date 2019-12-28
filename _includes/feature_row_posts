@@ -46,4 +46,6 @@
 
 </div>
 
-{{site.posts.title}}
+{% for f in site.posts limit:5 %}
+    {{f.url}}
+{% endfor %}
