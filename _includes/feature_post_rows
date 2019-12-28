@@ -1,6 +1,6 @@
 {% for post in site.posts limit:5 %}
-<hr />
-  <div style = "padding: 50px; width: 100px; display: inline-block;">
+<div class="feature__wrapper">
+  <div class = "feature__item--left">
     {% if post.teaser_image_path %}
 	<img src="{{ post.teaser_image_path }}" align="center" />
 	{% else %}
@@ -11,9 +11,10 @@
                 {% endif %} align="center" />
 	{% endif %}
   </div>
-  <div style = "padding: 50px; display: inline-block;">
+  <div class = "archive__item-body">
     <p><a href="{{ BASE_PATH }}{{ post.url }}"><h3>{{ post.title }}</h3></a></p>
 	<p>{{ post.content | strip_html | truncatewords: 40 }}
 	</p>
   </div>
+</div>
 {% endfor %}
