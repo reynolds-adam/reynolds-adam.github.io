@@ -1,4 +1,4 @@
-<div class="feature__wrapper">
+<div >
 
   {% for f in site.posts limit:5 %}
 
