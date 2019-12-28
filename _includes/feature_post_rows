@@ -2,8 +2,8 @@
 <hr />
 <div class="row">
   <div class="span2">
-    {% if post.thumbnail %}
-	<img src="{{ post.thumbnail }}" align="center" />
+    {% if post.teaser_image_path %}
+	<img src="{{ post.teaser_image_path }}" align="center" />
 	{% else %}
 	<img src={% if post.teaser_image_path contains "://" %}
                   "{{ post.teaser_image_path }}"
