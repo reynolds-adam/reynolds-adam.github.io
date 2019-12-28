@@ -1,4 +1,4 @@
-{% for post in site.posts limit:15 offset:3 %}
+{% for post in site.posts limit:5 %}
 <hr />
 <div class="row">
   <div class="span2">
