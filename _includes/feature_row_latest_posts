@@ -12,7 +12,7 @@
 
 <div class="feature__wrapper">
 
-  {% for f in site.posts limit:3 %}
+  {% for f in site.posts limit:5 %}
 
     {% if f.url contains "://" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}
