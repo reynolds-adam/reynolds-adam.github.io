@@ -1,5 +1,5 @@
 ---
-permalink: /hometest2/
+permalink: /hometest/
 layout: splash
 header:
   overlay_color: "#5e616c"
@@ -13,7 +13,7 @@ excerpt:
   Welcome to my website. Check out some of the things I’ve been working on recently, and feel free to contact me if you have any questions.<br>
 
 ---
-
+<!-- 
 <div class="feature__wrapper">
 
   {% for post in site.posts limit:3 %}
@@ -34,5 +34,16 @@ excerpt:
     </div>
   {% endfor %}
 
-</div>
+</div> -->
 
+<div>
+  {% for post in site.posts limit:3 %}
+    {{ post.url }} <br>
+    {{ post.related_image }} <br>
+    <img src = "{{ post.related_image }}"> <br>
+    <img src = {{ post.related_image }}> <br>
+    {{ paginator.page }} <br>
+    {{post.title}} <br>
+    {{post.excerpt}} <br>
+
+</div>
