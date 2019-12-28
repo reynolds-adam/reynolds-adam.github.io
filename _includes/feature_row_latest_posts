@@ -14,9 +14,9 @@
 
   {% for f in site.posts limit:5 %}
     {% if f.url contains "://" %}
-      {% capture f_url %}{{ f.url }}{% endcapture %}
+      {% capture f_url %}{{ f.url| remove: "www." }}{% endcapture %}
     {% else %}
-      {% capture f_url %}{{ f.url | absolute_url }}{% endcapture %}
+      {% capture f_url %}{{ f.url | absolute_url | remove: "www." }}{% endcapture %}
     {% endif %}
 
     <div class="feature__item--left">
