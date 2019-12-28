@@ -45,5 +45,5 @@ excerpt:
     {{ paginator.page }} <br>
     {{post.title}} <br>
     {{post.excerpt}} <br>
-
+  {% endfor %}
 </div>
