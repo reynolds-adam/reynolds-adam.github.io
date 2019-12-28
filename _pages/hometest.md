@@ -14,4 +14,4 @@ excerpt:
 ---
 
 
-{% include feature_post_rows %}
+{% include feature_row_posts %}
