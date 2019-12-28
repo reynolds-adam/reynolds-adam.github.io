@@ -5,7 +5,11 @@
     {% if post.thumbnail %}
 	<img src="{{ post.thumbnail }}" align="center" />
 	{% else %}
-	<img src="/assets/themes/tmtxt-responsive/images/no-thumnail.jpg" align="center" />
+	<img src={% if post.teaser_image_path contains "://" %}
+                  "{{ post.teaser_image_path }}"
+                {% else %}
+                  "{{ post.teaser_image_path }}"
+                {% endif %} align="center" />
 	{% endif %}
   </div>
   <div class="span10">
