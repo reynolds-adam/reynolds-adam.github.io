@@ -13,15 +13,5 @@ excerpt:
 
 ---
 
-<div>
-  {% for post in site.posts limit:3 %}
-    {{ post.url }} <br>
-    {{ post.related_image }} <br>
-    <img src = "{{ post.related_image }}"> <br>
-    <img src = {{ post.related_image }}> <br>
-    {{ paginator.page }} <br>
-    {{ post.title }} <br>
-    {{ post.synopsis}} <br>
-    {{ post.excerpt }} <br>
-  {% endfor %}
-</div>
+
+{% include feature_row_latest_posts %}
