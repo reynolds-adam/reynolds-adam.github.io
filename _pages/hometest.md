@@ -8,33 +8,10 @@ header:
   actions:
     - label: "<i class='fas fa-file'></i>  See my resume"
       url: "/resume/"
-
 excerpt: 
   Welcome to my website. Check out some of the things I’ve been working on recently, and feel free to contact me if you have any questions.<br>
 
 ---
-<!-- 
-<div class="feature__wrapper">
-
-  {% for post in site.posts limit:3 %}
-    {% capture post_url %}{{ post.url }}{% endcapture %}
-    <div class="feature__item--left">
-      <div class="archive__item">
-        <div class="archive__item-teaser">
-          <img src=assets/images/home/wordcloud_small.png>
-        </div>
-      </div>
-      <div class="archive__item-body">
-        <h2 class="archive__item-title">{{ post.title }}</h2>
-        <div class="archive__item-excerpt">
-          {{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
-          <p><a>href="https://adamreynoldsdata.com/Titanic/"</a></p>
-        </div>
-      </div>
-    </div>
-  {% endfor %}
-
-</div> -->
 
 <div>
   {% for post in site.posts limit:3 %}
@@ -43,7 +20,7 @@ excerpt:
     <img src = "{{ post.related_image }}"> <br>
     <img src = {{ post.related_image }}> <br>
     {{ paginator.page }} <br>
-    {{post.title}} <br>
-    {{post.excerpt}} <br>
+    {{ post.title }} <br>
+    {{ post.excerpt }} <br>
   {% endfor %}
 </div>
