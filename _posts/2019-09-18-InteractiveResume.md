@@ -1,6 +1,7 @@
 ---
 date: 2019-09-18T00:45:05-04:00
 description: "Adam's Interactive Resume"
+teaser_image_path: /assets/images/color_graph_small.jpg
 tags: ["tableau", "data-viz"]
 title: "Interactive Resume using Tableau"
 type: posts
