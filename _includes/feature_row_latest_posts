@@ -3,7 +3,7 @@
     <div class="archive__item">
       <div class="archive__item-body">
           <div class="archive__item-excerpt">
-            <p>Recent stories:</p>
+            <h2>Recent posts:</h2>
           </div>
       </div>
     </div>
