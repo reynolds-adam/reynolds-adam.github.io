@@ -1,7 +1,7 @@
 {% for post in site.posts limit:5 %}
 <hr />
-<div class="row">
-  <div class="span2">
+<div class="row" >
+  <div style = "inline-block;">
     {% if post.teaser_image_path %}
 	<img src="{{ post.teaser_image_path }}" align="center" />
 	{% else %}
@@ -12,7 +12,7 @@
                 {% endif %} align="center" />
 	{% endif %}
   </div>
-  <div class="span6">
+  <div style = "inline-block;">
     <p><a href="{{ BASE_PATH }}{{ post.url }}"><h3>{{ post.title }}</h3></a></p>
 	<p>{{ post.content | strip_html | truncatewords: 40 }}
 	</p>
