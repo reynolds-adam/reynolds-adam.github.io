@@ -8,14 +8,8 @@
       {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
     {% endif %}
 
-    <div class="feature__item--right">
-      <div class="archive__item">
-        {% if f.teaser_image_path %}
-          <div class="archive__item-teaser">
-            <img src= "{{ f.teaser_image_path | relative_url }}" style="max-height:230px; max-width:300px; width: auto; height: auto;">
-          </div>
-        {% endif %}
-
+    <div class="feature__item--left">
+      
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
