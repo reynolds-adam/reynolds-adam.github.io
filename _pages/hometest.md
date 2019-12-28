@@ -21,6 +21,7 @@ excerpt:
     <img src = {{ post.related_image }}> <br>
     {{ paginator.page }} <br>
     {{ post.title }} <br>
+    {{ post.synopsis}} <br>
     {{ post.excerpt }} <br>
   {% endfor %}
 </div>
