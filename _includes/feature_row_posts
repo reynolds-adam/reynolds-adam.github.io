@@ -9,7 +9,6 @@
     {% endif %}
 
     <div class="feature__item--left">
-      
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
@@ -24,7 +23,6 @@
             <p><a href="{{ f_url }}" class="btn btn--primary">Read More</a></p>
           {% endif %}
         </div>
-      </div>
     </div>
   {% endfor %}
 
