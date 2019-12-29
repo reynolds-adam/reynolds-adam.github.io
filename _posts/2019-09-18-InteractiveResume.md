@@ -3,7 +3,7 @@ date: 2019-09-18T00:45:05-04:00
 title: "Interactive Resume using Tableau"
 excerpt: "An interactive resume using Tableau to highlight my academic and professional experience."
 description: "Adam's Interactive Resume"
-teaser_image_path: /assets/images/color_graph_small.jpg
+teaser_image_path: /assets/images/interactive_resume.png
 tags: ["tableau", "data-viz"]
 layout: single
 author_profile: true
