@@ -6,7 +6,7 @@ description: "Adam's Interactive Resume"
 teaser_image_path: /assets/images/color_graph_small.jpg
 tags: ["tableau", "data-viz"]
 layout: single
-author_profile: false
+author_profile: true
 type: posts
 classes: wide
 ---
