@@ -14,4 +14,4 @@ excerpt:
 ---
 
 
-{% include feature_row_posts %}
+{% include feature_row_latest_posts %}
