@@ -1,35 +1,18 @@
 <div class="feature__wrapper">
-  <div class="feature__item--center">
-    <div class="archive__item">
-      <div class="archive__item-body">
-          <div class="archive__item-excerpt">
-            <h2>Recent posts:</h2>
-          </div>
-      </div>
-    </div>
-  </div>
-</div>
 
-<div class="feature__wrapper">
+  {% for f in site.posts limit:3 %}
 
-  {% for f in site.posts limit:5 %}
     {% if f.url contains "://" %}
-      {% capture f_url %}{{ f.url| remove: "www." }}{% endcapture %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
     {% else %}
-      {% capture f_url %}{{ f.url | absolute_url | remove: "www." }}{% endcapture %}
+      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
     {% endif %}
 
-    <div class="feature__item--left">
-      <div class="archive__item"><a href="{{ f_url }}">
+    <div class="feature__item">
+      <div class="archive__item">
         {% if f.teaser_image_path %}
           <div class="archive__item-teaser">
-              <img src=
-                {% if f.teaser_image_path contains "://" %}
-                  "{{ f.teaser_image_path }}"
-                {% else %}
-                  "{{ f.teaser_image_path }}"
-                {% endif %}
-              alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            <img src= "{{ f.teaser_image_path | relative_url }}" style="max-height:230px; max-width:300px;">
           </div>
         {% endif %}
 
@@ -37,18 +20,17 @@
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
-
           {% if f.excerpt %}
             <div class="archive__item-excerpt">
-              {% if f.date %}
-                <div class="archive__item-date"><i><time datetime="{{ f.date | date_to_xmlschema }}">{{ f.date | date: "%B %d, %Y" }}</time></i></div>
-              {% endif %}
-              {{ f.excerpt | markdownify | strip_html | truncate: 200 }} <br>
-              
+              {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f_url }}" class="btn btn--primary">Read More</a></p>
+          {% endif %}
         </div>
-      </a></div>
+      </div>
     </div>
   {% endfor %}
 
