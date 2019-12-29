@@ -17,14 +17,15 @@ intro:
 about:
   - image_path: /assets/images/boat.jpg
     alt: "about"
-    title: "About Me"
-    excerpt: "### Hi, I’m Adam. I'm a data scientist, musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more. To put it simply, I like creating things, solving problems, and having memorable experiences."
+    excerpt: "## Hi, I’m Adam. I'm a data scientist, musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more. To put it simply, I like creating things, solving problems, and having memorable experiences."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
  
 ---
 {% include feature_row id="intro" type="center" %}
+
+<h1><u>About Me</u> </h1> <br>
 
 {% include feature_row id="about" type="left"%}
 
