@@ -28,6 +28,6 @@ about:
 
 {% include feature_row id="about" type="left"%}
 
-<h1 align="center"> <u>Recent Posts</u> </h1> <br>
+<h1><u>Recent Posts</u> </h1> <br>
 
 {% include feature_row_latest_posts %}
