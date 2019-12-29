@@ -15,7 +15,7 @@ intro:
   - excerpt: '“If you just use the scientific method as a way to approach data-intensive projects, I think you’re more apt to be successful with your outcome.” *-* *Bob Hayes*'
 
 about:
-  - image_path: /assets/images/home/boat_wide.jpg
+  - image_path: /assets/images/thumbnails/boat_wide.jpg
     alt: "about"
     title: "About Me"
     excerpt: "Learn more than you probably care to know"
@@ -24,9 +24,8 @@ about:
     btn_label: "Learn more"
  
 ---
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="about" type="left"%}
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row_latest_posts %}
