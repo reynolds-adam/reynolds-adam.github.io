@@ -1,5 +1,6 @@
-{% for f in site.posts limit:3 %}
-  <div class="feature__wrapper">
+<div class="feature__wrapper">
+
+  {% for f in site.posts limit:3 %}
 
     {% if f.url contains "://" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}
@@ -30,8 +31,9 @@
           {% endif %}
         </div>
       </div>
-    </div>
-  </div> 
+    </div> 
     <br>
     <hr>
-{% endfor %}
+  {% endfor %}
+
+</div>
