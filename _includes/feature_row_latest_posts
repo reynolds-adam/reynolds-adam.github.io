@@ -1,6 +1,4 @@
-<div class="feature__wrapper">
-
-  {% for f in site.posts limit:3 %}
+{% for f in site.posts limit:3 %}
   <div class="feature__wrapper">
 
     {% if f.url contains "://" %}
@@ -36,6 +34,4 @@
   </div> 
     <br>
     <hr>
-  {% endfor %}
-
-</div>
+{% endfor %}
