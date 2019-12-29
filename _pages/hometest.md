@@ -18,7 +18,7 @@ about:
   - image_path: /assets/images/boat.jpg
     alt: "about"
     title: "About Me"
-    excerpt: "###Hi, I’m Adam. I'm a data scientist, musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more. To put it simply, I like creating things, solving problems, and having memorable experiences."
+    excerpt: "### Hi, I’m Adam. I'm a data scientist, musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more. To put it simply, I like creating things, solving problems, and having memorable experiences."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -31,3 +31,5 @@ about:
 <h1><u>Recent Posts</u> </h1> <br>
 
 {% include feature_row_latest_posts %}
+
+<p><a href="https://adamreynoldsdata.com/blog/" class="btn btn--primary">All Posts</a></p>
