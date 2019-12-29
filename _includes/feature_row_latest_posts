@@ -9,7 +9,7 @@
       {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
     {% endif %}
 
-    <div class="feature__item--center">
+    <div class="feature__item">
       <div class="archive__item">
         {% if f.teaser_image_path %}
           <div class="archive__item-teaser">
