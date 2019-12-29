@@ -25,12 +25,12 @@ about:
 ---
 {% include feature_row id="intro" type="center" %}
 
-<h1><u>About Me</u> </h1> <br>
+<h1 align="center">About Me</h1> <br>
 
 {% include feature_row id="about" type="left"%}
 
-<h1><u>Recent Posts</u> </h1> <br>
+<h1 align="center">Recent Posts</h1> <br>
 
 {% include feature_row_latest_posts %}
 
-<p><a href="https://adamreynoldsdata.com/blog/" class="btn btn--primary">All Posts</a></p>
+<p align="center"><a href="https://adamreynoldsdata.com/blog/" class="btn btn--primary">All Posts</a></p>
