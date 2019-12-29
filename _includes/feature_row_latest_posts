@@ -31,7 +31,9 @@
           {% endif %}
         </div>
       </div>
-    </div>
+    </div> 
+    <br>
+    <br>
   {% endfor %}
 
 </div>
