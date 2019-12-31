@@ -1,5 +1,4 @@
 ---
-permalink: /hometest/
 layout: splash
 header:
   overlay_color: "#5e616c"
