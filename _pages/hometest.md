@@ -33,4 +33,4 @@ about:
 
 {% include feature_row_latest_posts %}
 
-<p align="center"><a href="https://adamreynoldsdata.com/blog/" class="btn btn--primary">See All</a></p>
+<p align="center"><a href="https://adamreynoldsdata.com/blog/">All Posts</a></p>
