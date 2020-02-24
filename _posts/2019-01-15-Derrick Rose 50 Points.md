@@ -3,7 +3,7 @@ date: 2019-01-15T11:25:05-04:00
 title: "Derrick Rose Joins the 50 Point Club"
 excerpt: "Even in his MVP season, D-rose never scored 50 points in a season. 7 years and several injuries later, he finally joined the club."
 description: "Derrick Rose's Outlier Performance"
-teaser_image_path: /assets/images/color_graph_small.jpg
+teaser_image_path: /assets/images/Blog/derrickrose/color_graph_small.jpg
 tags: ["nba", "python", "dataviz"]
 layout: single
 author_profile: true
@@ -229,7 +229,7 @@ fig.savefig('Rose.png',bbox_inches='tight',facecolor=fig.get_facecolor(), edgeco
 ```
 
 <figure>
-	<a href="/assets/images/output_16_0.png"><img src="/assets/images/output_16_0.png"></a>
+	<a href="/assets/images/Blog/derrickrose/output_16_0.png"><img src="/assets/images/Blog/derrickrose/output_16_0.png"></a>
 </figure>
 
 
