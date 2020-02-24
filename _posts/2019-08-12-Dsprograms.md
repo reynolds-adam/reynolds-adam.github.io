@@ -29,7 +29,7 @@ If you decide graduate school is the route for you, there are some things you sh
 
 The first thing to consider is price. How much will the program cost when all is said and done? Tuition and fees are typically the largest expenses in a graduate school. Tuition for data science programs can range anywhere from 15-95k. However, most programs are in the 35-45k range.
 
-![Photo Caption](/assets/images/Blog/money.jpg)
+![Photo Caption](/assets/images/Blog/dsprograms/money.jpg)
 
 Does the school offer graduate scholarships that you are a candidate for? If so, apply early so that you can take that into consideration before making a final decision.
 
@@ -43,7 +43,7 @@ Make sure to ask your current employer about tuition reimbursement options. Most
 ### 2. Curriculum
 When it comes to a masters degree, the curriculum is vital. In my opinion it is the most important factor when choosing a program. The goal of getting the degree is to help you aquire skills to make you valuable to a company. So, what skills do you want/need to learn? This step will probably be the most time consuming because you will need to do a lot of research. 
 
-![](/assets/images/Blog/university.jpg)
+![](/assets/images/Blog/dsprograms/university.jpg)
 
 Look at job postings that you would like to have and see what skills are required. Then look for programs that focus on those skills in the curriculum. This is one step that many people overlook. If every other box is checked, but the curriculum is not what you want, it should be a deal-breaker.
 
@@ -63,7 +63,7 @@ I think you get the idea.
 
 Another important thing to consider is course delivery. Is the program available online or in-class only? One benefit of online programs, is the convenience. You can attend class from the comfort of your home without traveling to a university. This is especially important if you are working while attending school. Even if there is a university 20 minutes from your home, that is time that you could spend studying if you are in an online program.
 
-![The benefits of in class learning may be outweighted by the inconvenience of travel](/assets/images/Blog/classroom.jpg)
+![The benefits of in class learning may be outweighted by the inconvenience of travel](/assets/images/Blog/dsprograms/classroom.jpg)
 
 Although online programs are more convenient, you miss out on several benefits that you get from in-class programs. Some of these benefits include networking and relationship building. Graduate school is a great time to build connections and collaborate on projects. While not impossible online, you cannot beat face-to-face interaction.
 

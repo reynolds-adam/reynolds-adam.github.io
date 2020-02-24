@@ -19,7 +19,7 @@ Have you ever seen an item on Amazon that you wanted, but it was more than you w
 
 The item I am interested in is the Sony WH1000XM3 Noise Cancelling Headphones. I want some quality noise cancelling headphones, but $348 is more than I want to spend right now. Also, I don't want have to check the price daily, but I want to know if the price ever drops. Additionally, if the price drops below a certain price, I want to have an email sent to me with the new price and a link to the item on Amazon.
 
-![](/assets/images/Blog/product_page.png)
+![](/assets/images/Blog/pricechecker/product_page.png)
 
 This project idea is based on a video from *Dev Ed* on Youtube. If you haven't seen that video, You can check it out [here](https://www.youtube.com/watch?v=Bg9r_yLk7VY).
 
@@ -62,7 +62,7 @@ page = requests.get(URL, headers=headers)
 
 You can get your user agent by searching "My user agent" in Google. Copy and paste it exactly as shown in the search results.
 
-![](/assets/images/Blog/my_user_agent.png)
+![](/assets/images/Blog/pricechecker/my_user_agent.png)
 
 ## Functions
 
@@ -149,16 +149,16 @@ You can set up a cron job with the following steps:
     1. Once you have added the information into your crontab file type **esc** to escape edit mode, then **:w** to save (write) the changes and **:q** to quit crontab editing. This will take you back to the main terminal.
     1. To view the crontab saved correctly type **crontab -l** in the terminal to view the job. It should look something like this:
 
-![](/assets/images/Blog/crontab.png)
+![](/assets/images/Blog/pricechecker/crontab.png)
 
 I temporarily adjusted the threshold to test the email sending process. When I check my email, I see the following:
-![](/assets/images/Blog/message.png)
+![](/assets/images/Blog/pricechecker/message.png)
 
 The body of the email looks like this:
-![](/assets/images/Blog/email.png)
+![](/assets/images/Blog/pricechecker/email.png)
 
 And finally, when I click the link, it takes me here:
-![](/assets/images/Blog/product_page.png)
+![](/assets/images/Blog/pricechecker/product_page.png)
 
 So, there you have it. An automated Amazon price checker. Shoot me a message if you have any questions or suggestions for future projects.
 
