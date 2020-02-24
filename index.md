@@ -7,7 +7,7 @@ header:
   actions:
     - label: "<i class='fas fa-file'></i>  See my resume"
       url: "/resume/"
-excerpt:
+excerpt: >
   Welcome to my website. Check out some of the things I’ve been working on recently, and feel free to contact me if you have any questions.<br>
 
 intro:
