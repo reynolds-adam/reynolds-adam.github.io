@@ -8,7 +8,7 @@ type: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/basic/zion-wide.jpg
+  overlay_image: /assets/images/Blog/about/zion-wide.jpg
 ---
 
 ------
@@ -21,9 +21,9 @@ I've always had a variety of interests. To put it simply, I like creating things
 ## Woodworking
 Ever since I was 8 years old, I've always loved building things. Recently, I've gotten into woodworking.
 <figure class="third">
-	<img src="/assets/images/about/bench.JPG">
-	<img src="/assets/images/about/table.JPG">
-	<img src="/assets/images/about/bookshelf.JPG">
+	<img src="/assets/images/Blog/about/bench.JPG">
+	<img src="/assets/images/Blog/about/table.JPG">
+	<img src="/assets/images/Blog/about/bookshelf.JPG">
 	<figcaption>A few of my recent woodworking projects</figcaption>
 </figure>  
 
@@ -31,9 +31,9 @@ Ever since I was 8 years old, I've always loved building things. Recently, I've 
 ## Volleyball
 On Tuesdays, I play on a local rec league volleyball team. Our team went from last to first in the span of 3 seasons. *(I'm so proud)* 
 <figure class="third">
-	<img src="/assets/images/about/spike2018.jpg">
-	<img src="/assets/images/about/champs.JPG">
-	<img src="/assets/images/about/volleyball-tip.jpg">
+	<img src="/assets/images/Blog/about/spike2018.jpg">
+	<img src="/assets/images/Blog/about/champs.JPG">
+	<img src="/assets/images/Blog/about/volleyball-tip.jpg">
 	<figcaption>Recreation Volleyball - 3rd Team All-Neighborhood</figcaption>
 </figure>  
 
@@ -41,23 +41,23 @@ On Tuesdays, I play on a local rec league volleyball team. Our team went from la
 ## Hiking
 I love taking advantage of the great hiking in Utah. The elevation in Utah ranges from 2,200 to 13,500 feet, so there is a wide variety of terrain to explore. There are also 5 national parks, 3rd most in any state.
 <figure class="third">
-	<img src="/assets/images/about/hiking.jpg">
-	<img src="/assets/images/about/hiking2.JPG">
-	<img src="/assets/images/about/hiking3.JPG">
+	<img src="/assets/images/Blog/about/hiking.jpg">
+	<img src="/assets/images/Blog/about/hiking2.JPG">
+	<img src="/assets/images/Blog/about/hiking3.JPG">
 	<figcaption>Amethyst Lake, Gunsight Pass, and Dead Horse Point </figcaption>
 </figure>  
 
 ------
 ## Traveling
 <figure class="third">
-	<img src="/assets/images/about/london.jpg">
-	<img src="/assets/images/about/greece.jpg">
-	<img src="/assets/images/about/greece2.jpg">
+	<img src="/assets/images/Blog/about/london.jpg">
+	<img src="/assets/images/Blog/about/greece.jpg">
+	<img src="/assets/images/Blog/about/greece2.jpg">
 </figure>  
 <figure class="third">
-	<img src="/assets/images/about/boston-harbor.jpg">
-	<img src="/assets/images/about/boston-sunset.jpg">
-	<img src="/assets/images/about/nola.JPG">
+	<img src="/assets/images/Blog/about/boston-harbor.jpg">
+	<img src="/assets/images/Blog/about/boston-sunset.jpg">
+	<img src="/assets/images/Blog/about/nola.JPG">
 	<figcaption>Some of my trips from 2018. London, Greece, Boston, and New Orleans.</figcaption>
 </figure>
 ------
