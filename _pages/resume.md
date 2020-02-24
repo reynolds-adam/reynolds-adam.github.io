@@ -7,7 +7,7 @@ type: splash
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/basic/boston-sky.png
+  overlay_image: /assets/images/Pages/resume/boston-sky.png
   
 ---
 
