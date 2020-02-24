@@ -3,7 +3,7 @@ layout: splash
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/home/computer.jpg
+  overlay_image: /assets/images/Pages/home/computer.jpg
   actions:
     - label: "<i class='fas fa-file'></i>  See my resume"
       url: "/resume/"
@@ -14,7 +14,7 @@ intro:
   - excerpt: '“If you just use the scientific method as a way to approach data-intensive projects, I think you’re more apt to be successful with your outcome.” *-* *Bob Hayes*'
 
 about:
-  - image_path: /assets/images/boat.jpg
+  - image_path: /assets/images/Pages/home/boat.jpg
     alt: "about"
     excerpt: "Hi, I’m Adam. I'm a data scientist, musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more. To put it simply, I like creating things, solving problems, and having memorable experiences."
     url: "/about/"
