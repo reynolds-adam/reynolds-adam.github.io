@@ -10,11 +10,11 @@ header:
 excerpt: >
   Welcome to my website. Check out some of the things I’ve been working on recently, and feel free to contact me if you have any questions.<br>
 
-intro:
+intro:  
   - excerpt: '“If you just use the scientific method as a way to approach data-intensive projects, I think you’re more apt to be successful with your outcome.” *-* *Bob Hayes*'
 
 about:
-  - image_path: /assets/images/Pages/home/boat.jpg
+  - image_path: /assets/images/Pages/boat.jpg
     alt: "about"ho
     excerpt: "Hi, I’m Adam. I'm a data scientist, musician, motorcycle rider, woodworker, traveler, hiker, chef, volleyballer, snowboarder, learner, and more. To put it simply, I like creating things, solving problems, and having memorable experiences."
     url: "/about/"
