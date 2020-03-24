@@ -19,6 +19,7 @@ Final score 128-125.
 Check out the code below to see how we gathered, cleaned and plotted each game in Derrick Rose's career. Make sure to scroll to the very bottom to see the plot. All data was taken from nba.com.
 
 
+
 ```python
 import pandas as pd
 import numpy as np
